@@ -1,0 +1,33 @@
+ <Application>
+ 
+<Header>
+
+  <Version val="14100.00"/>
+
+  <WithIsn val="Y"/>
+
+  <Exe comp="-1"/>
+
+  <LastIsn val="11"/>
+
+  <LastIsnFolder val="0"/>
+
+</Header>
+
+<DataRepositoryProperties/>
+ <DataSourceRepository>
+  <DataObjects>
+ 
+<DataObject PhysicalName="Buffer" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="1" name="Buffer" offset="229" length="2652"/> 
+<DataObject PhysicalName="Customers" Public="0" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="2" name="Customers" offset="2882" length="6234"/> 
+<DataObject PhysicalName="Suppliers" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="3" name="Suppliers" offset="9117" length="4678"/> 
+<DataObject PhysicalName="Orders" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="4" name="Orders" offset="13796" length="5403"/> 
+<DataObject PhysicalName="Products" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="5" name="Products" offset="19200" length="6253"/> 
+<DataObject PhysicalName="Order_Lines" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="6" name="Order_Lines" offset="25454" length="6105"/> 
+<DataObject PhysicalName="Countries" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="7" name="Countries" offset="31560" length="2735"/> 
+<DataObject PhysicalName="Cities" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="8" name="Cities" offset="34296" length="4183"/> 
+<DataObject PhysicalName="LastId" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="9" name="LastId" offset="38480" length="2063"/> 
+<DataObject PhysicalName="Method_Of_Payment" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="10" name="Method_Of_Payment" offset="40544" length="2019"/> 
+<DataObject PhysicalName="Categories" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="11" name="Categories" offset="42564" length="2017"/>  </DataObjects>
+ </DataSourceRepository>
+ <LastModified val="31201096-31720230"/>  </Application>
