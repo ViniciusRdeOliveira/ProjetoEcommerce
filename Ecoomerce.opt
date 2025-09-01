@@ -73,9 +73,19 @@
         <HandlerIsn Val="4"/>
       </ExpandedItem>
       <ExpandedItem>
-        <TaskIsn Val="1"/>
+        <TaskIsn Val="2"/>
         <Type Val="1"/>
-        <OperationIsn Val="12"/>
+        <OperationIsn Val="9"/>
+      </ExpandedItem>
+      <ExpandedItem>
+        <TaskIsn Val="2"/>
+        <Type Val="1"/>
+        <OperationIsn Val="20"/>
+      </ExpandedItem>
+      <ExpandedItem>
+        <TaskIsn Val="2"/>
+        <Type Val="1"/>
+        <OperationIsn Val="24"/>
       </ExpandedItem>
     </Program>
   </ExpandedItems>

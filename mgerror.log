@@ -136,3 +136,50 @@
  <129814461787662368> 01/09/2025 14:39:09.723     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
  <129814461787662368> 01/09/2025 14:39:14.352     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
  <129814461787662368> 01/09/2025 14:39:18.677     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <336976246324826752> 01/09/2025 15:14:39.022     [Error  ] - Execution Path: Inicio, Program: "Inicio".
+ <336976246324826752> 01/09/2025 15:14:39.023     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Inicio".
+ <336976246324826752> 01/09/2025 15:14:39.024     [Error  ] -  Task Name: Inicio, Tag: 3, Parent Tag: 2, Program: "Inicio".
+ <336976246324826752> 01/09/2025 15:14:39.025     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Inicio".
+ <336976246324826752> 01/09/2025 15:14:39.025     [Error  ] - End Task Tree, Program: "Inicio".
+ <336976246324826752> 01/09/2025 15:14:39.027     [Error  ] - Error: Thread aborted, so error marked.
+ <336976246324826752> 01/09/2025 15:14:39.028     [Error  ] - EndTaskRequest(): InicioInternal transaction error : "Inicio" ("Ecoomerce")  (msgid "2072")
+ <327476842643709568> 01/09/2025 15:20:46.111     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <327476842643709568> 01/09/2025 15:20:48.189     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <284182566297836128> 01/09/2025 15:22:14.516     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <222430350221661696> 01/09/2025 15:26:42.446     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <179078585229218592> 01/09/2025 15:27:37.764     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <179078585229218592> 01/09/2025 15:27:41.443     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <179078585229218592> 01/09/2025 15:27:49.905     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <179078585229218592> 01/09/2025 15:27:50.844     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <179078585229218592> 01/09/2025 15:27:51.414     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <179078585229218592> 01/09/2025 15:27:51.845     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <179078585229218592> 01/09/2025 15:27:52.225     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <179078585229218592> 01/09/2025 15:27:52.397     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <179078585229218592> 01/09/2025 15:27:52.702     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <179078585229218592> 01/09/2025 15:28:02.776     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <179078585229218592> 01/09/2025 15:28:13.129     [Error  ] - Aborting context 179078585229218592, Program: "Main Program".
+ <385193644808392768> 01/09/2025 15:30:00.775     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <385193644808392768> 01/09/2025 15:30:02.428     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <385193644808392768> 01/09/2025 15:30:15.458     [Error  ] - Aborting context 385193644808392768, Program: "Main Program".
+ <567046617053631040> 01/09/2025 15:30:45.276     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <567046617053631040> 01/09/2025 15:30:46.367     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <192929493649076608> 01/09/2025 15:38:57.382     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <510303491373257728> 01/09/2025 15:39:42.932     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <510303491373257728> 01/09/2025 15:40:00.282     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <510303491373257728> 01/09/2025 15:40:00.890     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <510303491373257728> 01/09/2025 15:40:01.596     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <510303491373257728> 01/09/2025 15:40:02.730     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <510303491373257728> 01/09/2025 15:40:03.081     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <510303491373257728> 01/09/2025 15:40:10.768     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <510303491373257728> 01/09/2025 15:40:20.006     [Error  ] - Aborting context 510303491373257728, Program: "Main Program".
+ <526213835787294464> 01/09/2025 15:41:02.485     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <526213835787294464> 01/09/2025 15:41:16.283     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <526213835787294464> 01/09/2025 15:41:16.976     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <526213835787294464> 01/09/2025 15:41:17.844     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <526213835787294464> 01/09/2025 15:41:18.592     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <526213835787294464> 01/09/2025 15:41:18.772     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <526213835787294464> 01/09/2025 15:41:19.347     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <526213835787294464> 01/09/2025 15:41:27.042     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <526213835787294464> 01/09/2025 15:41:35.080     [Error  ] - Aborting context 526213835787294464, Program: "Main Program".
+ <334547220080708352> 01/09/2025 15:43:47.845     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <334547220080708352> 01/09/2025 15:43:55.049     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
