@@ -2,3 +2,137 @@
  <-1> 27/08/2025 08:51:30.827     [Error  ] - Application Font Definition file could not be opened.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecoomerce\"
  <-1> 27/08/2025 08:51:30.828     [Error  ] - Application Color Definition file could not be opened.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecoomerce\"
  <-1> 27/08/2025 08:51:30.829     [Error  ] - Application Font Definition file could not be opened.  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecoomerce\"
+ <171897412858795872> 27/08/2025 09:12:05.449     [Error  ] - Unable to open the Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio.Tabela".
+ <171897412858795872> 27/08/2025 09:12:05.453     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <171897412858795872> 27/08/2025 09:12:05.455     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Products : Tabela no such column: Id_Categories : "RunMe" ("Ecoomerce")  (msgid "3"), Program: "Main Program".
+ <471636473950832576> 27/08/2025 09:20:53.213     [Error  ] - Unable to open the Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio.Tabela".
+ <471636473950832576> 27/08/2025 09:20:53.214     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <471636473950832576> 27/08/2025 09:20:53.215     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Products : Tabela no such column: Id_Categories : "RunMe" ("Ecoomerce")  (msgid "6"), Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:44.957     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Apple 2 GB iPod Nano.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.098     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\SONY PSP console.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.144     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\SD Card 1024MB.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.175     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\IRIVER H10 6GB.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.207     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Apple 2 GB iPod Nano.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.402     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\SONY PSP console.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.433     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\SD Card 1024MB.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.462     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\IRIVER H10 6GB.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.492     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Apple 2 GB iPod Nano.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.530     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Logitech G5 Laser Mouse.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.556     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Logitech Z-2300 Speaker System.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.594     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\HP iPaq hw6515 Mobile Messenger.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.621     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Key Chain With LED Light.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.654     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Nature Sound Relaxation Humidifier.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.689     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Copenhagen Portable TFT LCD.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.720     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Talking Blood Pressure Monitor.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.757     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Undercover Surveyor Binocular.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.799     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Mosquito Repelling Wrist Watch.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.829     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Infrared Thermometer Gun.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.863     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\1.3 Mega Digital Binocular Camera.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.896     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Copenhagen Slim Portable DVD.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.926     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\KaraMax Karaoke Portable Microphone.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.958     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Ultra Zoom Binoculars.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:45.987     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\2.4 GHz Video Camera Color Pen.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:46.020     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Pocket Electronic Whistle.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:46.053     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Robot Vacuum Cleaner.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:46.084     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Home Hot Dog Grill.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:46.115     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Ultra Slim 22 Channel Digital Walkie Talkie.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:46.148     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\G-force Giant Face Atomic Clock With Thermometer.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:46.183     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Magic Mister Lamp and Fog Humidifier Fall.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:46.235     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Memory Foam Seat Cushion.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:46.275     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Autobahn Valet Key Chain Led Light.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:46.305     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Zen Humidifier LED Lamp with Water Fall Effect.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:46.338     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\SUSITA All-Weather Digital Handheld Compass light.jpg" not found., Program: "Main Program".
+ <280618016991352768> 27/08/2025 09:23:46.370     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\HealthCare Foldable Full Body Massage Lounger.jpg" not found., Program: "Main Program".
+ <556049359822964096> 27/08/2025 14:30:20.056     [Error  ] - Execution Path: Tela Inicial;Pagamento, Program: "Tela Inicial.Pagamento".
+ <556049359822964096> 27/08/2025 14:30:20.064     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Tela Inicial.Pagamento".
+ <556049359822964096> 27/08/2025 14:30:20.065     [Error  ] -  Task Name: Tela Inicial, Tag: 3, Parent Tag: 2, Program: "Tela Inicial.Pagamento".
+ <556049359822964096> 27/08/2025 14:30:20.066     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Tela Inicial.Pagamento".
+ <556049359822964096> 27/08/2025 14:30:20.066     [Error  ] -  Task Name: Pagamento, Tag: 13, Parent Tag: 3, Program: "Tela Inicial.Pagamento".
+ <556049359822964096> 27/08/2025 14:30:20.067     [Error  ] - End Task Tree, Program: "Tela Inicial.Pagamento".
+ <556049359822964096> 27/08/2025 14:30:20.068     [Error  ] - Error: Thread aborted, so error marked.
+ <556049359822964096> 27/08/2025 14:30:20.069     [Error  ] - EndTaskRequest(): Tela Inicial;PagamentoInternal transaction error : "Tela Inicial" ("Ecoomerce")  (msgid "819")
+ <103880525579830736> 27/08/2025 14:31:08.541     [Error  ] - Execution Path: Tela Inicial;Pagamento, Program: "Tela Inicial.Pagamento".
+ <103880525579830736> 27/08/2025 14:31:08.543     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Tela Inicial.Pagamento".
+ <103880525579830736> 27/08/2025 14:31:08.544     [Error  ] -  Task Name: Tela Inicial, Tag: 3, Parent Tag: 2, Program: "Tela Inicial.Pagamento".
+ <103880525579830736> 27/08/2025 14:31:08.545     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Tela Inicial.Pagamento".
+ <103880525579830736> 27/08/2025 14:31:08.546     [Error  ] -  Task Name: Pagamento, Tag: 5, Parent Tag: 3, Program: "Tela Inicial.Pagamento".
+ <103880525579830736> 27/08/2025 14:31:08.547     [Error  ] - End Task Tree, Program: "Tela Inicial.Pagamento".
+ <103880525579830736> 27/08/2025 14:31:08.548     [Error  ] - Error: Thread aborted, so error marked.
+ <103880525579830736> 27/08/2025 14:31:08.550     [Error  ] - EndTaskRequest(): Tela Inicial;PagamentoInternal transaction error : "Tela Inicial" ("Ecoomerce")  (msgid "823")
+ <424320949986326784> 27/08/2025 15:08:44.705     [Error  ] - Execution Path: Tela Inicial;Pagamento, Program: "Tela Inicial.Pagamento".
+ <424320949986326784> 27/08/2025 15:08:44.706     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Tela Inicial.Pagamento".
+ <424320949986326784> 27/08/2025 15:08:44.706     [Error  ] -  Task Name: Tela Inicial, Tag: 3, Parent Tag: 2, Program: "Tela Inicial.Pagamento".
+ <424320949986326784> 27/08/2025 15:08:44.706     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Tela Inicial.Pagamento".
+ <424320949986326784> 27/08/2025 15:08:44.707     [Error  ] -  Task Name: Pagamento, Tag: 5, Parent Tag: 3, Program: "Tela Inicial.Pagamento".
+ <424320949986326784> 27/08/2025 15:08:44.707     [Error  ] - End Task Tree, Program: "Tela Inicial.Pagamento".
+ <424320949986326784> 27/08/2025 15:08:44.708     [Error  ] - Error: Thread aborted, so error marked.
+ <424320949986326784> 27/08/2025 15:08:44.708     [Error  ] - EndTaskRequest(): Tela Inicial;PagamentoInternal transaction error : "Tela Inicial" ("Ecoomerce")  (msgid "964")
+ <292814244658209472> 28/08/2025 13:23:35.812     [Error  ] - Unable to open the Data Source: Cart  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Tela Inicial.Tabela".
+ <292814244658209472> 28/08/2025 13:23:35.816     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <292814244658209472> 28/08/2025 13:23:35.817     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Cart : Tabela no such column: Amount : "Tela Inicial" ("Ecoomerce")  (msgid "185"), Program: "Main Program".
+ <184735392295882368> 28/08/2025 13:25:16.020     [Error  ] - Unable to open the Data Source: Cart  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Tela Inicial.Tabela".
+ <184735392295882368> 28/08/2025 13:25:16.021     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <184735392295882368> 28/08/2025 13:25:16.021     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Cart : Tabela no such column: Amount : "Tela Inicial" ("Ecoomerce")  (msgid "188"), Program: "Main Program".
+ <192852154966934240> 28/08/2025 13:26:37.380     [Error  ] - Unable to open the Data Source: Cart  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Tela Inicial.Tabela".
+ <192852154966934240> 28/08/2025 13:26:37.381     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <192852154966934240> 28/08/2025 13:26:37.381     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Cart : Tabela no such column: Amount : "Tela Inicial" ("Ecoomerce")  (msgid "191"), Program: "Main Program".
+ <450698978459596864> 29/08/2025 13:58:14.777     [Error  ] - Execution Path: inicio, Program: "inicio".
+ <450698978459596864> 29/08/2025 13:58:14.785     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "inicio".
+ <450698978459596864> 29/08/2025 13:58:14.785     [Error  ] -  Task Name: inicio, Tag: 3, Parent Tag: 2, Program: "inicio".
+ <450698978459596864> 29/08/2025 13:58:14.786     [Error  ] - End Task Tree, Program: "inicio".
+ <450698978459596864> 29/08/2025 13:58:14.787     [Error  ] - Error: Thread aborted, so error marked.
+ <450698978459596864> 29/08/2025 13:58:14.788     [Error  ] - EndTaskRequest(): inicioERR-THREAD-ABORTED (-139) : "inicio" ("Ecoomerce")  (msgid "189")
+ <102894921803866192> 29/08/2025 14:28:25.617     [Error  ] - Aborting context 102894921803866192, Program: "Main Program".
+ <1986522209744442> 01/09/2025 08:50:10.720     [Error  ] - Aborting context 1986522209744442, Program: "Main Program".
+ <440295692508394816> 01/09/2025 13:13:01.000     [Error  ] - Aborting context 440295692508394816, Program: "Main Program".
+ <487832766524491072> 01/09/2025 13:15:52.850     [Error  ] - Execution Path: Início;Tabela, Program: "Início.Tabela".
+ <487832766524491072> 01/09/2025 13:15:52.850     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Início.Tabela".
+ <487832766524491072> 01/09/2025 13:15:52.851     [Error  ] -  Task Name: Início, Tag: 3, Parent Tag: 2, Program: "Início.Tabela".
+ <487832766524491072> 01/09/2025 13:15:52.851     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Início.Tabela".
+ <487832766524491072> 01/09/2025 13:15:52.851     [Error  ] - End Task Tree, Program: "Início.Tabela".
+ <487832766524491072> 01/09/2025 13:15:52.852     [Error  ] - Error: Thread aborted, so error marked.
+ <487832766524491072> 01/09/2025 13:15:52.852     [Error  ] - EndTaskRequest(): Início;TabelaERR-THREAD-ABORTED (-139) : "Início" ("Ecoomerce")  (msgid "1223")
+ <262198290738201312> 01/09/2025 13:34:56.175     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <262198290738201312> 01/09/2025 13:35:06.117     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <262198290738201312> 01/09/2025 13:35:11.738     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <262198290738201312> 01/09/2025 13:35:24.954     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Orders".
+ <262198290738201312> 01/09/2025 13:35:25.703     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Orders".
+ <262198290738201312> 01/09/2025 13:35:26.710     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Orders".
+ <262198290738201312> 01/09/2025 13:35:27.750     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Orders".
+ <262198290738201312> 01/09/2025 13:35:28.100     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Orders".
+ <262198290738201312> 01/09/2025 13:35:28.441     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Orders".
+ <262198290738201312> 01/09/2025 13:35:28.612     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Orders".
+ <262198290738201312> 01/09/2025 13:35:28.769     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Orders".
+ <262198290738201312> 01/09/2025 13:35:28.926     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Orders".
+ <262198290738201312> 01/09/2025 13:35:29.020     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Orders".
+ <262198290738201312> 01/09/2025 13:35:29.140     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Orders".
+ <262198290738201312> 01/09/2025 13:35:37.143     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Orders".
+ <262198290738201312> 01/09/2025 13:35:45.109     [Error  ] - Aborting context 262198290738201312, Program: "Main Program".
+ <324788654360244800> 01/09/2025 13:40:11.476     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <201752948565541728> 01/09/2025 14:00:55.585     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <203299028191675488> 01/09/2025 14:02:48.564     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <203299028191675488> 01/09/2025 14:02:56.621     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Início".
+ <203299028191675488> 01/09/2025 14:02:57.337     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Início".
+ <203299028191675488> 01/09/2025 14:03:57.882     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Início".
+ <203299028191675488> 01/09/2025 14:03:59.449     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Início".
+ <203299028191675488> 01/09/2025 14:03:59.776     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Início".
+ <203299028191675488> 01/09/2025 14:05:39.517     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Início".
+ <203299028191675488> 01/09/2025 14:05:39.826     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Início".
+ <203299028191675488> 01/09/2025 14:05:40.123     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Início".
+ <203299028191675488> 01/09/2025 14:05:40.442     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Início".
+ <203299028191675488> 01/09/2025 14:05:41.269     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Início".
+ <203299028191675488> 01/09/2025 14:05:52.170     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Início".
+ <203299028191675488> 01/09/2025 14:06:02.003     [Error  ] - Aborting context 203299028191675488, Program: "Main Program".
+ <319110258074953792> 01/09/2025 14:37:06.569     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <319110258074953792> 01/09/2025 14:37:16.685     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <319110258074953792> 01/09/2025 14:37:36.110     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <319110258074953792> 01/09/2025 14:37:37.501     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <319110258074953792> 01/09/2025 14:37:37.961     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <319110258074953792> 01/09/2025 14:37:38.300     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <319110258074953792> 01/09/2025 14:37:38.761     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <319110258074953792> 01/09/2025 14:37:46.532     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <319110258074953792> 01/09/2025 14:38:08.754     [Error  ] - Aborting context 319110258074953792, Program: "Main Program".
+ <129814461787662368> 01/09/2025 14:39:03.274     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <129814461787662368> 01/09/2025 14:39:09.723     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <129814461787662368> 01/09/2025 14:39:14.352     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <129814461787662368> 01/09/2025 14:39:18.677     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".

@@ -13,8 +13,8 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="E-commerce  Produtos" ISN_2="1" LastIsn="7" id="4">
-          <LastModified _date="739489" _time="33278" date="26/08/2025" time="09:14:38"/>
+        <Header Description="E-Commerce Produtos" ISN_2="1" LastIsn="7" id="4">
+          <LastModified _date="739495" _time="47772" date="01/09/2025" time="13:16:12"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -475,7 +475,7 @@
               <GridX id="38" val="5"/>
               <GridY id="39" val="13"/>
               <_Comment id="218"/>
-              <FormName id="311" valUnicode="E-commerce  Produtos"/>
+              <FormName id="311" valUnicode="a"/>
               <WindowType id="358" val="2"/>
               <_PulldownMenu comp="-1" id="441" obj="7"/>
               <_ContextMenu comp="-1" id="442" obj="6"/>
@@ -636,14 +636,9 @@
             <EventType val="N"/>
           </Event>
         </EVNT>
-        <EVNT DESC="AddToCart" FORCE_EXIT="N" id="3">
-          <Event>
-            <EventType val="N"/>
-          </Event>
-        </EVNT>
         <Task MainProgram="N">
-          <Header Description="Tabela" ISN_2="2" id="4">
-            <LastModified _date="739489" _time="33278" date="26/08/2025" time="09:14:38"/>
+          <Header Description="Tabela" ISN_2="2" LastIsn="7" id="4">
+            <LastModified _date="739495" _time="47772" date="01/09/2025" time="13:16:12"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -661,7 +656,7 @@
             <FormType val="N"/>
             <DotNetObjectExists val="N"/>
           </Header>
-          <ItemIsn val="12"/>
+          <ItemIsn val="14"/>
           <Resource>
             <DB id="1">
               <DataObject comp="-1" obj="3"/>
@@ -1011,32 +1006,6 @@
                 </LogicLine>
               </LogicLines>
             </LogicUnit>
-            <LogicUnit id="5" propagate="78">
-              <Level val="R"/>
-              <Type val="S"/>
-              <Scope val="S"/>
-              <EngineDirective val="S"/>
-              <ShowMessage val="Y"/>
-              <Condition val="89"/>
-              <Event>
-                <EventType val="S"/>
-              </Event>
-              <ExecuteOn_ val="O"/>
-              <LogicLines>
-                <LogicLine>
-                  <Update FlowIsn="21">
-                    <Parent val="1"/>
-                    <FieldID val="3"/>
-                    <WithValue val="1"/>
-                    <Incremental val="N"/>
-                    <ForcedUpdate val="Y"/>
-                    <Condition val="Y"/>
-                    <Modifier val="B"/>
-                    <Direction val="C"/>
-                  </Update>
-                </LogicLine>
-              </LogicLines>
-            </LogicUnit>
             <LogicUnit id="6" propagate="78">
               <Level val="H"/>
               <Type val="U"/>
@@ -1046,8 +1015,7 @@
               <Condition val="89"/>
               <Event>
                 <EventType val="U"/>
-                <Parent val="1"/>
-                <PublicObject comp="-1" obj="3"/>
+                <PublicObject comp="-1" obj="4"/>
               </Event>
               <ExecuteOn_ val="O"/>
               <LogicLines>
@@ -1311,8 +1279,8 @@
                 <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
                   <Model comp="-1" id="1" obj="12"/>
                   <Placement bottom="100" id="20" right="100"/>
-                  <X id="21" val="607"/>
-                  <Y id="22" val="30"/>
+                  <X id="21" val="608"/>
+                  <Y id="22" val="29"/>
                   <Width id="23" val="10"/>
                   <Height id="24" val="8"/>
                   <ControlLayer id="25" val="8"/>
@@ -1320,8 +1288,7 @@
                   <ImageListFileName id="88" val="%WorkingDir%images\ok.png"/>
                   <RaiseEvent id="234">
                     <EventType val="U"/>
-                    <Parent val="1"/>
-                    <PublicObject comp="-1" obj="3"/>
+                    <PublicObject comp="-1" obj="4"/>
                   </RaiseEvent>
                   <TabOrder id="314" val="8"/>
                   <CornerRadius id="668"/>
@@ -1350,10 +1317,6 @@
               <ExpSyntax val="'%WorkingDir%products\'&amp;Trim({0,3})&amp;'.jpg'"/>
               <ExpAttribute val="A"/>
             </Expression>
-            <Expression id="6">
-              <ExpSyntax val="Trim({0,3})&amp;' adicionado ao carrinho'"/>
-              <ExpAttribute val="A"/>
-            </Expression>
             <Expression id="7">
               <ExpSyntax val="{0,8}"/>
               <ExpAttribute val="N"/>
@@ -1374,9 +1337,14 @@
               <EventType val="N"/>
             </Event>
           </EVNT>
+          <EVNT DESC="addToCart" FORCE_EXIT="N" id="4">
+            <Event>
+              <EventType val="N"/>
+            </Event>
+          </EVNT>
         </Task>
         <Task MainProgram="N">
-          <Header Description="Inicialização" ISN_2="3" id="4">
+          <Header Description="Inicialização" ISN_2="3" LastIsn="7" id="4">
             <LastModified _date="739484" _time="38350" date="21/08/2025" time="10:39:10"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
@@ -1876,7 +1844,7 @@
             </Expression>
           </Expressions>
           <Task MainProgram="N">
-            <Header Description="BuscaDados" ISN_2="4" id="4">
+            <Header Description="BuscaDados" ISN_2="4" LastIsn="7" id="4">
               <LastModified _date="739478" _time="33109" date="15/08/2025" time="09:11:49"/>
               <ExecutionRight comp="-1"/>
               <Resident val="Y"/>
@@ -2182,7 +2150,7 @@
             <VarRangeInfo Mode="E" VarRangeVeeIsn="1" id="1"/>
           </Task>
           <Task MainProgram="N">
-            <Header Description="Produtos Edit" ISN_2="5" id="4">
+            <Header Description="Produtos Edit" ISN_2="5" LastIsn="7" id="4">
               <LastModified _date="739484" _time="38350" date="21/08/2025" time="10:39:10"/>
               <ExecutionRight comp="-1"/>
               <Resident val="N"/>
@@ -2782,7 +2750,7 @@
               </Event>
             </EVNT>
             <Task MainProgram="N">
-              <Header Description="Excluir" ISN_2="6" id="4">
+              <Header Description="Excluir" ISN_2="6" LastIsn="7" id="4">
                 <LastModified _date="739484" _time="49241" date="21/08/2025" time="13:40:41"/>
                 <ExecutionRight comp="-1"/>
                 <Resident val="Y"/>
@@ -2919,7 +2887,7 @@
               <VarRangeInfo Mode="E" VarRangeVeeIsn="1" id="1"/>
             </Task>
             <Task MainProgram="N">
-              <Header Description="Salvar" ISN_2="7" id="4">
+              <Header Description="Salvar" ISN_2="7" LastIsn="7" id="4">
                 <LastModified _date="739484" _time="38350" date="21/08/2025" time="10:39:10"/>
                 <ExecutionRight comp="-1"/>
                 <Resident val="Y"/>
