@@ -4,7 +4,7 @@
   <Header>
     <Version val="14100.00"/>
     <WithIsn val="Y"/>
-    <LastIsn val="36"/>
+    <LastIsn val="44"/>
     <LastIsnFolder val="0"/>
   </Header>
 
@@ -157,126 +157,6 @@
           <_DisplayField comp="-1" id="443" obj="2"/>
           <_LinkField comp="-1" id="444" obj="2"/>
           <_Index comp="-1" id="445" obj="1"/>
-        </PropertyList>
-      </Object>
-      <Object id="21" name="Table Display Form">
-        <PropertyList model="FORM_RICH_CLIENT">
-          <Wallpaper id="42" val="C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\env\Wallpaper.jpg"/>
-          <_Comment id="218"/>
-          <FormName id="311"/>
-          <WallpaperStyle id="448" val="5"/>
-        </PropertyList>
-      </Object>
-      <Object id="22" name="TextCaption">
-        <PropertyList model="CTRL_RICH_CLIENT_LABEL">
-          <Font id="50" val="11"/>
-          <Color id="51" val="4"/>
-        </PropertyList>
-      </Object>
-      <Object id="23" name="EditControl">
-        <PropertyList model="CTRL_RICH_CLIENT_EDIT">
-          <Font id="50" val="12"/>
-          <Color id="51" val="6"/>
-        </PropertyList>
-      </Object>
-      <Object id="24" name="Display Only">
-        <PropertyList model="CTRL_RICH_CLIENT_EDIT">
-          <Color id="51" val="5"/>
-          <Border id="452"/>
-        </PropertyList>
-      </Object>
-      <Object id="25" name="Table">
-        <PropertyList model="CTRL_RICH_CLIENT_TABLE">
-          <Placement bottom="100" id="20"/>
-          <Color id="51" val="5"/>
-          <RowHighlightColor id="410" val="7"/>
-          <SetTableColorBy id="428" val="2"/>
-        </PropertyList>
-      </Object>
-      <Object id="26" name="Colunm">
-        <PropertyList model="CTRL_RICH_CLIENT_COLUMN">
-          <Font id="50" val="11"/>
-          <Color id="51" val="4"/>
-        </PropertyList>
-      </Object>
-      <Object id="27" name="Image Button">
-        <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
-          <Font id="50" val="12"/>
-          <Color id="51" val="5"/>
-          <ImageListFileName id="88" val="C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\images\Edit.png"/>
-          <ButtonStyle id="96" val="2"/>
-          <RaiseEvent id="234">
-            <EventType val="I"/>
-            <InternalEventID val="34"/>
-          </RaiseEvent>
-        </PropertyList>
-      </Object>
-      <Object id="28" name="Browse Button">
-        <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
-          <RaiseEvent id="234">
-            <EventType val="I"/>
-            <InternalEventID val="34"/>
-          </RaiseEvent>
-        </PropertyList>
-      </Object>
-      <Object id="29" name="Table Display Form">
-        <PropertyList model="FORM_RICH_CLIENT">
-          <Wallpaper id="42" val="C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\env\Wallpaper.jpg"/>
-          <_Comment id="218"/>
-          <FormName id="311"/>
-          <WallpaperStyle id="448" val="5"/>
-        </PropertyList>
-      </Object>
-      <Object id="30" name="TextCaption">
-        <PropertyList model="CTRL_RICH_CLIENT_LABEL">
-          <Font id="50" val="11"/>
-          <Color id="51" val="4"/>
-        </PropertyList>
-      </Object>
-      <Object id="31" name="EditControl">
-        <PropertyList model="CTRL_RICH_CLIENT_EDIT">
-          <Font id="50" val="12"/>
-          <Color id="51" val="6"/>
-        </PropertyList>
-      </Object>
-      <Object id="32" name="Display Only">
-        <PropertyList model="CTRL_RICH_CLIENT_EDIT">
-          <Color id="51" val="5"/>
-          <Border id="452"/>
-        </PropertyList>
-      </Object>
-      <Object id="33" name="Table">
-        <PropertyList model="CTRL_RICH_CLIENT_TABLE">
-          <Placement bottom="100" id="20"/>
-          <Color id="51" val="5"/>
-          <RowHighlightColor id="410" val="7"/>
-          <SetTableColorBy id="428" val="2"/>
-        </PropertyList>
-      </Object>
-      <Object id="34" name="Colunm">
-        <PropertyList model="CTRL_RICH_CLIENT_COLUMN">
-          <Font id="50" val="11"/>
-          <Color id="51" val="4"/>
-        </PropertyList>
-      </Object>
-      <Object id="35" name="Image Button">
-        <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
-          <Font id="50" val="12"/>
-          <Color id="51" val="5"/>
-          <ImageListFileName id="88" val="C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\GettingStarted\images\Edit.png"/>
-          <ButtonStyle id="96" val="2"/>
-          <RaiseEvent id="234">
-            <EventType val="I"/>
-            <InternalEventID val="34"/>
-          </RaiseEvent>
-        </PropertyList>
-      </Object>
-      <Object id="36" name="Browse Button">
-        <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
-          <RaiseEvent id="234">
-            <EventType val="I"/>
-            <InternalEventID val="34"/>
-          </RaiseEvent>
         </PropertyList>
       </Object>
     </Models>

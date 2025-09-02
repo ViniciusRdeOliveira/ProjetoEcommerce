@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="E-Commerce Produtos" ISN_2="1" LastIsn="7" id="4">
-          <LastModified _date="739495" _time="47772" date="01/09/2025" time="13:16:12"/>
+          <LastModified _date="739496" _time="48403" date="02/09/2025" time="13:26:43"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -475,7 +475,7 @@
               <GridX id="38" val="5"/>
               <GridY id="39" val="13"/>
               <_Comment id="218"/>
-              <FormName id="311" valUnicode="a"/>
+              <FormName id="311" valUnicode="Ecommerce Produtos"/>
               <WindowType id="358" val="2"/>
               <_PulldownMenu comp="-1" id="441" obj="7"/>
               <_ContextMenu comp="-1" id="442" obj="6"/>
@@ -638,7 +638,7 @@
         </EVNT>
         <Task MainProgram="N">
           <Header Description="Tabela" ISN_2="2" LastIsn="7" id="4">
-            <LastModified _date="739495" _time="47772" date="01/09/2025" time="13:16:12"/>
+            <LastModified _date="739496" _time="48403" date="02/09/2025" time="13:26:43"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -656,7 +656,7 @@
             <FormType val="N"/>
             <DotNetObjectExists val="N"/>
           </Header>
-          <ItemIsn val="14"/>
+          <ItemIsn val="15"/>
           <Resource>
             <DB id="1">
               <DataObject comp="-1" obj="3"/>
@@ -1032,6 +1032,15 @@
                   </Update>
                 </LogicLine>
                 <LogicLine>
+                  <STP Buttons="O" DefaultButton="1" ERR_LOG_DEF_CHG="N" Exp="8" FlowIsn="24" IMG_DEF_CHG="N" Image="E" Mode="W" TTL_DEF_CHG="N" TitleTxt="Warning" VR_DISP="B">
+                    <AppendToErrorLog val="N"/>
+                    <Disabled val="1"/>
+                    <Condition val="Y"/>
+                    <Modifier val="B"/>
+                    <Direction val="C"/>
+                  </STP>
+                </LogicLine>
+                <LogicLine>
                   <RaiseEvent FlowIsn="23">
                     <Event>
                       <EventType val="I"/>
@@ -1319,6 +1328,10 @@
             </Expression>
             <Expression id="7">
               <ExpSyntax val="{0,8}"/>
+              <ExpAttribute val="N"/>
+            </Expression>
+            <Expression id="8">
+              <ExpSyntax val="{1,3}"/>
               <ExpAttribute val="N"/>
             </Expression>
           </Expressions>
