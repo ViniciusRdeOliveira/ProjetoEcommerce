@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="E-commerce Clientes" ISN_2="1" LastIsn="7" id="2">
-          <LastModified _date="739490" _time="51686" date="27/08/2025" time="14:21:26"/>
+          <LastModified _date="739499" _time="31116" date="09/05/2025" time="08:38:36"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -482,14 +482,14 @@
           <FormEntry _last_isn="6" _last_test_id="35" id="1">
             <PropertyList model="FORM_RICH_CLIENT">
               <Model comp="-1" id="1" obj="3"/>
-              <Width id="23" val="407"/>
+              <Width id="23" val="419"/>
               <Height id="24" val="236"/>
               <_Comment id="218"/>
               <FormName id="311" valUnicode="E-commerce Clientes"/>
               <WindowType id="358" val="2"/>
-              <_PulldownMenu comp="-1" id="441" obj="7"/>
-              <_ContextMenu comp="-1" id="442" obj="6"/>
-              <NavigationDrawerMenu comp="-1" id="662" obj="7"/>
+              <_PulldownMenu id="441"/>
+              <_ContextMenu id="442"/>
+              <NavigationDrawerMenu id="662"/>
               <ActionBarMenu id="683"/>
             </PropertyList>
             <Control _test_id="12" id="1">
@@ -497,10 +497,10 @@
                 <Model comp="-1" id="1" obj="15"/>
                 <Text id="19" valUnicode="Clientes"/>
                 <Placement id="20" left="50"/>
-                <X id="21" val="137"/>
+                <X id="21" val="149"/>
                 <Y id="22" val="5"/>
-                <Width id="23" val="73"/>
-                <Height id="24" val="17"/>
+                <Width id="23" val="84"/>
+                <Height id="24" val="19"/>
                 <_Orientation id="143"/>
               </PropertyList>
             </Control>
@@ -521,7 +521,7 @@
               <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
                 <Model comp="-1" id="1" obj="12"/>
                 <Placement id="20" left="50"/>
-                <X id="21" val="296"/>
+                <X id="21" val="292"/>
                 <Y id="22" val="32"/>
                 <Width id="23" val="10"/>
                 <Height id="24" val="8"/>
@@ -538,7 +538,7 @@
               <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
                 <Model comp="-1" id="1" obj="12"/>
                 <Placement id="20" left="50"/>
-                <X id="21" val="329"/>
+                <X id="21" val="325"/>
                 <Y id="22" val="32"/>
                 <Width id="23" val="10"/>
                 <Height id="24" val="8"/>
@@ -555,7 +555,7 @@
               <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
                 <Model comp="-1" id="1" obj="12"/>
                 <Placement id="20" left="50"/>
-                <X id="21" val="362"/>
+                <X id="21" val="358"/>
                 <Y id="22" val="32"/>
                 <Width id="23" val="10"/>
                 <Height id="24" val="8"/>
@@ -573,7 +573,7 @@
                 <Placement bottom="100" id="20" left="50"/>
                 <X id="21" val="9"/>
                 <Y id="22" val="53"/>
-                <Width id="23" val="372"/>
+                <Width id="23" val="387"/>
                 <Height id="24" val="156"/>
                 <ControlName id="46" val="Tabela"/>
                 <Arguments id="126">
@@ -646,7 +646,7 @@
         </EVNT>
         <Task MainProgram="N">
           <Header Description="Tabela" ISN_2="2" LastIsn="7" id="2">
-            <LastModified _date="739490" _time="51686" date="27/08/2025" time="14:21:26"/>
+            <LastModified _date="739499" _time="31100" date="09/05/2025" time="08:38:20"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -940,7 +940,7 @@
             <FormEntry _last_isn="13" _last_test_id="34" id="1">
               <PropertyList model="FORM_RICH_CLIENT">
                 <Model comp="-1" id="1" obj="3"/>
-                <Width id="23" val="365"/>
+                <Width id="23" val="387"/>
                 <Height id="24" val="156"/>
                 <TitleBar id="26"/>
                 <SystemMenu id="27"/>
@@ -949,21 +949,21 @@
                 <FormName id="311" valUnicode="Tabela"/>
                 <WindowType id="358" val="3"/>
                 <_PulldownMenu comp="-1" id="441" obj="7"/>
-                <_ContextMenu comp="-1" id="442" obj="6"/>
-                <NavigationDrawerMenu comp="-1" id="662" obj="7"/>
+                <_ContextMenu id="442"/>
+                <NavigationDrawerMenu id="662"/>
                 <ActionBarMenu id="683"/>
               </PropertyList>
               <Control _test_id="18" id="1">
                 <PropertyList model="CTRL_RICH_CLIENT_TABLE">
                   <Model comp="-1" id="1" obj="10"/>
                   <Placement bottom="100" id="20" right="100"/>
-                  <Width id="23" val="363"/>
+                  <Width id="23" val="385"/>
                   <Height id="24" val="156"/>
                   <ControlName id="46"/>
                   <_TitleHeight id="79" val="11"/>
                   <RowHeight id="80" val="16"/>
                   <Elements id="81" val="6"/>
-                  <_WindowWidth id="241" val="363"/>
+                  <_WindowWidth id="241" val="385"/>
                 </PropertyList>
               </Control>
               <Control ISN_FATHER="1" PDOD="128" _test_id="19" id="2">
@@ -979,7 +979,7 @@
               <Control ISN_FATHER="1" PDOD="128" _test_id="21" id="3">
                 <PropertyList model="CTRL_RICH_CLIENT_COLUMN">
                   <Model comp="-1" id="1" obj="11"/>
-                  <Width id="23" val="85"/>
+                  <Width id="23" val="127"/>
                   <ControlLayer id="25" val="2"/>
                   <HorizontalAlignment id="65" val="2"/>
                   <ColumnTitle id="139" valUnicode="Nome"/>
@@ -1015,10 +1015,10 @@
               <Control ISN_FATHER="1" PDOD="128" _test_id="33" id="7">
                 <PropertyList model="CTRL_RICH_CLIENT_COLUMN">
                   <Model comp="-1" id="1" obj="11"/>
-                  <Width id="23" val="51"/>
+                  <Width id="23" val="29"/>
                   <ControlLayer id="25" val="6"/>
                   <HorizontalAlignment id="65" val="2"/>
-                  <ColumnTitle id="139" valUnicode="Selecione"/>
+                  <ColumnTitle id="139" valUnicode=""/>
                 </PropertyList>
               </Control>
               <Control ISN_FATHER="1" PDOD="1" _test_id="20" id="8">
@@ -1045,7 +1045,7 @@
                   <Placement bottom="100" id="20" right="100"/>
                   <X id="21" val="50"/>
                   <Y id="22" val="13"/>
-                  <Width id="23" val="81"/>
+                  <Width id="23" val="123"/>
                   <Height id="24" val="12"/>
                   <ControlLayer id="25" val="2"/>
                   <Data FieldID="3" id="43"/>
@@ -1061,7 +1061,7 @@
                 <PropertyList model="CTRL_RICH_CLIENT_EDIT">
                   <Model comp="-1" id="1" obj="9"/>
                   <Placement bottom="100" id="20" right="100"/>
-                  <X id="21" val="135"/>
+                  <X id="21" val="177"/>
                   <Y id="22" val="13"/>
                   <Width id="23" val="46"/>
                   <Height id="24" val="12"/>
@@ -1079,7 +1079,7 @@
                 <PropertyList model="CTRL_RICH_CLIENT_EDIT">
                   <Model comp="-1" id="1" obj="9"/>
                   <Placement bottom="100" id="20" right="100"/>
-                  <X id="21" val="185"/>
+                  <X id="21" val="227"/>
                   <Y id="22" val="13"/>
                   <Width id="23" val="53"/>
                   <Height id="24" val="12"/>
@@ -1097,7 +1097,7 @@
                 <PropertyList model="CTRL_RICH_CLIENT_EDIT">
                   <Model comp="-1" id="1" obj="9"/>
                   <Placement bottom="100" id="20" right="100"/>
-                  <X id="21" val="242"/>
+                  <X id="21" val="284"/>
                   <Y id="22" val="13"/>
                   <Width id="23" val="49"/>
                   <Height id="24" val="12"/>
@@ -1115,8 +1115,8 @@
                 <PropertyList model="CTRL_RICH_CLIENT_PUSH_BUTTON">
                   <Model comp="-1" id="1" obj="12"/>
                   <Placement bottom="100" id="20" right="100"/>
-                  <X id="21" val="319"/>
-                  <Y id="22" val="15"/>
+                  <X id="21" val="349"/>
+                  <Y id="22" val="16"/>
                   <Width id="23" val="11"/>
                   <Height id="24" val="8"/>
                   <ControlLayer id="25" val="6"/>
@@ -1173,7 +1173,7 @@
         </Task>
         <Task MainProgram="N">
           <Header Description="inicializacao" ISN_2="3" LastIsn="7" id="2">
-            <LastModified _date="739485" _time="54885" date="22/08/2025" time="15:14:45"/>
+            <LastModified _date="739499" _time="31116" date="09/05/2025" time="08:38:36"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -1735,8 +1735,8 @@
                 <Wallpaper id="42" val="%WorkingDir%env\Wallpaper.jpg"/>
                 <_Comment id="218"/>
                 <FormName id="311" valUnicode="inicializacao"/>
-                <_ContextMenu comp="-1" id="442" obj="6"/>
-                <NavigationDrawerMenu comp="-1" id="662" obj="4"/>
+                <_ContextMenu id="442"/>
+                <NavigationDrawerMenu id="662"/>
               </PropertyList>
             </FormEntry>
           </TaskForms>
@@ -1800,7 +1800,7 @@
           </Expressions>
           <Task MainProgram="N">
             <Header Description="BuscaDados" ISN_2="4" LastIsn="7" id="2">
-              <LastModified _date="739485" _time="34813" date="22/08/2025" time="09:40:13"/>
+              <LastModified _date="739485" _time="34813" date="08/22/2025" time="09:40:13"/>
               <ExecutionRight comp="-1"/>
               <Resident val="Y"/>
               <SQL val="N"/>
@@ -2174,7 +2174,7 @@
           </Task>
           <Task MainProgram="N">
             <Header Description="Cliente Edit" ISN_2="5" LastIsn="7" id="2">
-              <LastModified _date="739485" _time="54885" date="22/08/2025" time="15:14:45"/>
+              <LastModified _date="739485" _time="54885" date="08/22/2025" time="15:14:45"/>
               <ExecutionRight comp="-1"/>
               <Resident val="N"/>
               <SQL val="N"/>
@@ -2916,7 +2916,7 @@
             </EVNT>
             <Task MainProgram="N">
               <Header Description="Excluir" ISN_2="6" LastIsn="7" id="2">
-                <LastModified _date="739475" _time="35833" date="12/08/2025" time="09:57:13"/>
+                <LastModified _date="739475" _time="35833" date="08/12/2025" time="09:57:13"/>
                 <ExecutionRight comp="-1"/>
                 <Resident val="Y"/>
                 <SQL val="N"/>
@@ -3053,7 +3053,7 @@
             </Task>
             <Task MainProgram="N">
               <Header Description="Salvar" ISN_2="7" LastIsn="7" id="2">
-                <LastModified _date="739485" _time="54886" date="22/08/2025" time="15:14:46"/>
+                <LastModified _date="739485" _time="54886" date="08/22/2025" time="15:14:46"/>
                 <ExecutionRight comp="-1"/>
                 <Resident val="Y"/>
                 <SQL val="N"/>

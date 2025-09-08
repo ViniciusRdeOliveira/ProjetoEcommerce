@@ -14,14 +14,17 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="E-Commerce Produtos" ISN_2="1" LastIsn="7" id="4">
-          <LastModified _date="739496" _time="48403" date="02/09/2025" time="13:26:43"/>
+          <LastModified _date="739502" _time="31843" date="09/08/2025" time="08:50:43"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
           <ReturnValue>
             <ReturnValueAttr/>
-            <TSK_PARAMS val="1"/>
+            <TSK_PARAMS val="4"/>
             <ParametersAttributes>
+              <Attr MgAttr="N"/>
+              <Attr MgAttr="A"/>
+              <Attr MgAttr="N"/>
               <Attr MgAttr="N"/>
             </ParametersAttributes>
           </ReturnValue>
@@ -33,7 +36,7 @@
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
         </Header>
-        <ItemIsn val="5"/>
+        <ItemIsn val="8"/>
         <Resource>
           <Columns>
             <Column id="1" name="v.Filtro">
@@ -56,6 +59,33 @@
             <Column id="3" name="p.Product_Code">
               <PropertyList model="FIELD">
                 <Model attr_obj="FIELD_NUMERIC" comp="-1" id="1" obj="1"/>
+                <DbColumnName id="178"/>
+                <Type id="179"/>
+                <UserType id="180"/>
+              </PropertyList>
+            </Column>
+            <Column id="6" name="p.Product_Name">
+              <PropertyList model="FIELD">
+                <Model attr_obj="FIELD_ALPHA" comp="-1" id="1" obj="2"/>
+                <StoredAs id="173" val="1"/>
+                <DbColumnName id="178"/>
+                <Type id="179"/>
+                <UserType id="180"/>
+              </PropertyList>
+            </Column>
+            <Column id="7" name="p.Product_Quantity">
+              <PropertyList model="FIELD">
+                <Model attr_obj="FIELD_NUMERIC" id="1"/>
+                <Picture id="157" valUnicode="10"/>
+                <_Dec id="181"/>
+                <_Whole id="182" val="10"/>
+                <_Negative id="192"/>
+                <_FieldStyle id="276" val="1"/>
+              </PropertyList>
+            </Column>
+            <Column id="8" name="p.Product_Price">
+              <PropertyList model="FIELD">
+                <Model attr_obj="FIELD_NUMERIC" comp="-1" id="1" obj="7"/>
                 <DbColumnName id="178"/>
                 <Type id="179"/>
                 <UserType id="180"/>
@@ -192,6 +222,44 @@
               <LogicLine>
                 <Select FieldID="3" FlowIsn="5" id="3">
                   <Column val="3"/>
+                  <Type val="V"/>
+                  <ExposedToRoute val="N"/>
+                  <IsParameter val="Y"/>
+                  <DIFF_UPDATE val="T"/>
+                  <PartOfDataview val="Y"/>
+                  <Condition val="Y"/>
+                  <Modifier val="S"/>
+                  <Direction val="C"/>
+                </Select>
+              </LogicLine>
+              <LogicLine>
+                <Select FieldID="6" FlowIsn="22" id="6">
+                  <Column val="6"/>
+                  <Type val="V"/>
+                  <ExposedToRoute val="N"/>
+                  <IsParameter val="Y"/>
+                  <DIFF_UPDATE val="T"/>
+                  <PartOfDataview val="Y"/>
+                  <Condition val="Y"/>
+                  <Modifier val="S"/>
+                  <Direction val="C"/>
+                </Select>
+              </LogicLine>
+              <LogicLine>
+                <Select FieldID="7" FlowIsn="23" id="7">
+                  <Column val="7"/>
+                  <Type val="V"/>
+                  <ExposedToRoute val="N"/>
+                  <IsParameter val="Y"/>
+                  <DIFF_UPDATE val="T"/>
+                  <Condition val="Y"/>
+                  <Modifier val="S"/>
+                  <Direction val="C"/>
+                </Select>
+              </LogicLine>
+              <LogicLine>
+                <Select FieldID="8" FlowIsn="24" id="8">
+                  <Column val="8"/>
                   <Type val="V"/>
                   <ExposedToRoute val="N"/>
                   <IsParameter val="Y"/>
@@ -477,19 +545,19 @@
               <_Comment id="218"/>
               <FormName id="311" valUnicode="Ecommerce Produtos"/>
               <WindowType id="358" val="2"/>
-              <_PulldownMenu comp="-1" id="441" obj="7"/>
+              <_PulldownMenu id="441"/>
               <_ContextMenu comp="-1" id="442" obj="6"/>
-              <NavigationDrawerMenu comp="-1" id="662" obj="7"/>
+              <NavigationDrawerMenu id="662"/>
             </PropertyList>
             <Control _test_id="2" id="1">
               <PropertyList model="CTRL_RICH_CLIENT_LABEL">
                 <Model comp="-1" id="1" obj="15"/>
                 <Text id="19" valUnicode="Lista de Produtos"/>
                 <Placement id="20" left="50"/>
-                <X id="21" val="307"/>
-                <Y id="22" val="19"/>
-                <Width id="23" val="186"/>
-                <Height id="24" val="27"/>
+                <X id="21" val="290"/>
+                <Y id="22" val="18"/>
+                <Width id="23" val="219"/>
+                <Height id="24" val="29"/>
                 <_Orientation id="143"/>
               </PropertyList>
             </Control>
@@ -638,7 +706,7 @@
         </EVNT>
         <Task MainProgram="N">
           <Header Description="Tabela" ISN_2="2" LastIsn="7" id="4">
-            <LastModified _date="739496" _time="48403" date="02/09/2025" time="13:26:43"/>
+            <LastModified _date="739502" _time="31843" date="09/08/2025" time="08:50:43"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -1032,7 +1100,43 @@
                   </Update>
                 </LogicLine>
                 <LogicLine>
-                  <STP Buttons="O" DefaultButton="1" ERR_LOG_DEF_CHG="N" Exp="8" FlowIsn="24" IMG_DEF_CHG="N" Image="E" Mode="W" TTL_DEF_CHG="N" TitleTxt="Warning" VR_DISP="B">
+                  <Update FlowIsn="26">
+                    <Parent val="1"/>
+                    <FieldID val="6"/>
+                    <WithValue val="9"/>
+                    <Incremental val="N"/>
+                    <ForcedUpdate val="Y"/>
+                    <Condition val="Y"/>
+                    <Modifier val="B"/>
+                    <Direction val="C"/>
+                  </Update>
+                </LogicLine>
+                <LogicLine>
+                  <Update FlowIsn="27">
+                    <Parent val="1"/>
+                    <FieldID val="7"/>
+                    <WithValue val="10"/>
+                    <Incremental val="N"/>
+                    <ForcedUpdate val="Y"/>
+                    <Condition val="Y"/>
+                    <Modifier val="B"/>
+                    <Direction val="C"/>
+                  </Update>
+                </LogicLine>
+                <LogicLine>
+                  <Update FlowIsn="28">
+                    <Parent val="1"/>
+                    <FieldID val="8"/>
+                    <WithValue val="11"/>
+                    <Incremental val="N"/>
+                    <ForcedUpdate val="Y"/>
+                    <Condition val="Y"/>
+                    <Modifier val="B"/>
+                    <Direction val="C"/>
+                  </Update>
+                </LogicLine>
+                <LogicLine>
+                  <STP Buttons="O" DefaultButton="1" ERR_LOG_DEF_CHG="N" Exp="12" FlowIsn="24" IMG_DEF_CHG="N" Image="E" Mode="W" TTL_DEF_CHG="N" TitleTxt="Warning" VR_DISP="B">
                     <AppendToErrorLog val="N"/>
                     <Disabled val="1"/>
                     <Condition val="Y"/>
@@ -1068,8 +1172,8 @@
                 <FormName id="311" valUnicode="Tabela"/>
                 <WindowType id="358" val="3"/>
                 <_PulldownMenu comp="-1" id="441" obj="7"/>
-                <_ContextMenu comp="-1" id="442" obj="6"/>
-                <NavigationDrawerMenu comp="-1" id="662" obj="7"/>
+                <_ContextMenu id="442"/>
+                <NavigationDrawerMenu id="662"/>
                 <ActionBarMenu id="683"/>
               </PropertyList>
               <Control _test_id="33" id="1">
@@ -1310,6 +1414,18 @@
               <ExpSyntax val="{0,2}"/>
               <ExpAttribute val="N"/>
             </Expression>
+            <Expression id="9">
+              <ExpSyntax val="{0,3}"/>
+              <ExpAttribute val="A"/>
+            </Expression>
+            <Expression id="10">
+              <ExpSyntax val="{0,7}"/>
+              <ExpAttribute val="N"/>
+            </Expression>
+            <Expression id="11">
+              <ExpSyntax val="{0,6}"/>
+              <ExpAttribute val="N"/>
+            </Expression>
             <Expression id="2">
               <ExpSyntax val="0"/>
               <ExpAttribute val="N"/>
@@ -1330,9 +1446,9 @@
               <ExpSyntax val="{0,8}"/>
               <ExpAttribute val="N"/>
             </Expression>
-            <Expression id="8">
-              <ExpSyntax val="{1,3}"/>
-              <ExpAttribute val="N"/>
+            <Expression id="12">
+              <ExpSyntax val="{1,6}"/>
+              <ExpAttribute val="A"/>
             </Expression>
           </Expressions>
           <EVNT DESC="Relatorio" FORCE_EXIT="N" id="1">
@@ -1358,7 +1474,7 @@
         </Task>
         <Task MainProgram="N">
           <Header Description="Inicialização" ISN_2="3" LastIsn="7" id="4">
-            <LastModified _date="739484" _time="38350" date="21/08/2025" time="10:39:10"/>
+            <LastModified _date="739499" _time="31834" date="09/05/2025" time="08:50:34"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -1858,7 +1974,7 @@
           </Expressions>
           <Task MainProgram="N">
             <Header Description="BuscaDados" ISN_2="4" LastIsn="7" id="4">
-              <LastModified _date="739478" _time="33109" date="15/08/2025" time="09:11:49"/>
+              <LastModified _date="739478" _time="33109" date="08/15/2025" time="09:11:49"/>
               <ExecutionRight comp="-1"/>
               <Resident val="Y"/>
               <SQL val="N"/>
@@ -2164,7 +2280,7 @@
           </Task>
           <Task MainProgram="N">
             <Header Description="Produtos Edit" ISN_2="5" LastIsn="7" id="4">
-              <LastModified _date="739484" _time="38350" date="21/08/2025" time="10:39:10"/>
+              <LastModified _date="739499" _time="31835" date="09/05/2025" time="08:50:35"/>
               <ExecutionRight comp="-1"/>
               <Resident val="N"/>
               <SQL val="N"/>
@@ -2546,8 +2662,8 @@
                   <Wallpaper id="42" val="%WorkingDir%env\Wallpaper.jpg"/>
                   <_Comment id="218"/>
                   <FormName id="311" valUnicode="Produtos Edit"/>
-                  <_ContextMenu comp="-1" id="442" obj="6"/>
-                  <NavigationDrawerMenu comp="-1" id="662" obj="4"/>
+                  <_ContextMenu id="442"/>
+                  <NavigationDrawerMenu id="662"/>
                 </PropertyList>
                 <Control _test_id="13" id="1">
                   <PropertyList model="CTRL_RICH_CLIENT_LABEL">
@@ -2764,7 +2880,7 @@
             </EVNT>
             <Task MainProgram="N">
               <Header Description="Excluir" ISN_2="6" LastIsn="7" id="4">
-                <LastModified _date="739484" _time="49241" date="21/08/2025" time="13:40:41"/>
+                <LastModified _date="739484" _time="49241" date="08/21/2025" time="13:40:41"/>
                 <ExecutionRight comp="-1"/>
                 <Resident val="Y"/>
                 <SQL val="N"/>
@@ -2901,7 +3017,7 @@
             </Task>
             <Task MainProgram="N">
               <Header Description="Salvar" ISN_2="7" LastIsn="7" id="4">
-                <LastModified _date="739484" _time="38350" date="21/08/2025" time="10:39:10"/>
+                <LastModified _date="739484" _time="38350" date="08/21/2025" time="10:39:10"/>
                 <ExecutionRight comp="-1"/>
                 <Resident val="Y"/>
                 <SQL val="N"/>

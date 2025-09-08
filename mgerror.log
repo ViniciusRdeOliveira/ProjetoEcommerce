@@ -305,3 +305,277 @@
  <407230448880570624> 02/09/2025 17:21:53.133     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
  <105361970837551200> 02/09/2025 17:22:23.720     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
  <105361970837551200> 02/09/2025 17:22:34.280     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <482929676025417664> 04/09/2025 08:29:52.069     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <410799579871476416> 04/09/2025 08:48:00.367     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <410799579871476416> 04/09/2025 08:48:21.214     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <410799579871476416> 04/09/2025 08:48:21.216     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <233542674622053504> 04/09/2025 08:50:44.684     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <233542674622053504> 04/09/2025 08:50:46.161     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <57210736378423072> 04/09/2025 08:52:32.345     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <57210736378423072> 04/09/2025 08:52:34.771     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <57210736378423072> 04/09/2025 08:52:54.802     [Error  ] - Cannot modify the Read-only Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio.Tabela.Add/Edit Lines".
+ <57210736378423072> 04/09/2025 08:52:54.803     [Error  ] - Error: OutputToClient returned FALSE OR rcParse = 1 , Program: "Main Program".
+ <57210736378423072> 04/09/2025 08:52:54.803     [Error  ] - EndTaskRequest(): Cannot modify the Read-only Data Source: Products : Add/Edit Lines  : "Inicio.Tabela.Add/Edit Lines" ("Ecoomerce")  (msgid "329"), Program: "Main Program".
+ <366179962176966016> 04/09/2025 08:58:46.019     [Error  ] - Cannot modify the Read-only Data Source: Products  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio.Tabela.Add/Edit Lines".
+ <366179962176966016> 04/09/2025 08:58:46.020     [Error  ] - Error: OutputToClient returned FALSE OR rcParse = 1 , Program: "Main Program".
+ <366179962176966016> 04/09/2025 08:58:46.020     [Error  ] - EndTaskRequest(): Cannot modify the Read-only Data Source: Products : Add/Edit Lines  : "Inicio.Tabela.Add/Edit Lines" ("Ecoomerce")  (msgid "335"), Program: "Main Program".
+ <385800442597317056> 04/09/2025 09:10:02.648     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <143234925574384384> 04/09/2025 09:12:13.576     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <143234925574384384> 04/09/2025 09:12:46.870     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <143234925574384384> 04/09/2025 09:12:48.780     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <143234925574384384> 04/09/2025 09:13:04.576     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <143234925574384384> 04/09/2025 09:13:05.917     [Error  ] - Unable to perform the operation, the record has been changed by another user or process. Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <143234925574384384> 04/09/2025 09:13:08.948     [Error  ] - Execution Path: Inicio, Program: "Inicio".
+ <143234925574384384> 04/09/2025 09:13:08.950     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Inicio".
+ <143234925574384384> 04/09/2025 09:13:08.951     [Error  ] -  Task Name: Inicio, Tag: 3, Parent Tag: 2, Program: "Inicio".
+ <143234925574384384> 04/09/2025 09:13:08.952     [Error  ] - End Task Tree, Program: "Inicio".
+ <143234925574384384> 04/09/2025 09:13:08.954     [Error  ] - Error: Thread aborted, so error marked.
+ <143234925574384384> 04/09/2025 09:13:08.955     [Error  ] - EndTaskRequest(): Unable to perform the operation, the record has been changed by another user or process. Data Source: Order_Lines : Inicio InicioERR-THREAD-ABORTED (-139) : "Inicio.Tabela" ("Ecoomerce")  (msgid "460")
+ <417260549286603712> 04/09/2025 09:13:58.263     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <417260549286603712> 04/09/2025 09:14:40.423     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <417260549286603712> 04/09/2025 09:14:41.630     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <417260549286603712> 04/09/2025 09:14:50.566     [Error  ] - Unable to perform the operation, the record has been changed by another user or process. Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <13289630949251256> 04/09/2025 09:14:50.568     [Error  ] - Aborting context 13289630949251256, Program: "Main Program".
+ <417260549286603712> 04/09/2025 09:14:53.610     [Error  ] - Execution Path: Inicio, Program: "Inicio".
+ <417260549286603712> 04/09/2025 09:14:53.612     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Inicio".
+ <417260549286603712> 04/09/2025 09:14:53.614     [Error  ] -  Task Name: Inicio, Tag: 3, Parent Tag: 2, Program: "Inicio".
+ <417260549286603712> 04/09/2025 09:14:53.615     [Error  ] - End Task Tree, Program: "Inicio".
+ <417260549286603712> 04/09/2025 09:14:53.617     [Error  ] - Error: Thread aborted, so error marked.
+ <417260549286603712> 04/09/2025 09:14:53.618     [Error  ] - EndTaskRequest(): Unable to perform the operation, the record has been changed by another user or process. Data Source: Order_Lines : Inicio InicioERR-THREAD-ABORTED (-139) : "Inicio.Tabela" ("Ecoomerce")  (msgid "531")
+ <71762311460475472> 04/09/2025 09:26:53.985     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <557283845164588288> 04/09/2025 09:47:37.841     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <75788307566005856> 04/09/2025 09:55:05.397     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <75788307566005856> 04/09/2025 09:55:06.901     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <424711594492400256> 04/09/2025 09:57:53.818     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <424711594492400256> 04/09/2025 09:57:54.827     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <361450852858416576> 04/09/2025 10:19:19.806     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <361450852858416576> 04/09/2025 10:19:25.493     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <361450852858416576> 04/09/2025 10:19:39.749     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <361450852858416576> 04/09/2025 10:19:39.751     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <283274680093354880> 04/09/2025 10:20:29.089     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <283274680093354880> 04/09/2025 10:20:34.937     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <283274680093354880> 04/09/2025 10:20:50.870     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <283274680093354880> 04/09/2025 10:20:57.557     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <283274680093354880> 04/09/2025 10:21:07.905     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <283274680093354880> 04/09/2025 10:21:07.907     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <275942827254822080> 04/09/2025 10:22:15.860     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <275942827254822080> 04/09/2025 10:22:20.534     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <275942827254822080> 04/09/2025 10:22:35.351     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <275942827254822080> 04/09/2025 10:22:38.958     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <275942827254822080> 04/09/2025 10:22:43.603     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <275942827254822080> 04/09/2025 10:22:43.605     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <22342641510899420> 04/09/2025 10:26:42.299     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <22342641510899420> 04/09/2025 10:26:47.089     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <22342641510899420> 04/09/2025 10:27:29.473     [Error  ] - Aborting context 22342641510899420, Program: "Main Program".
+ <429373799460261376> 04/09/2025 10:32:12.129     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <266977769955953408> 04/09/2025 10:54:01.792     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <101550068189028736> 05/09/2025 08:04:12.198     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <101550068189028736> 05/09/2025 08:04:14.350     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <314876266931900992> 05/09/2025 08:09:29.846     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <314876266931900992> 05/09/2025 08:09:32.332     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <435352152946921856> 05/09/2025 08:59:35.302     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <435352152946921856> 05/09/2025 08:59:36.659     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <435352152946921856> 05/09/2025 08:59:50.804     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <459630801904184192> 05/09/2025 09:31:51.640     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <459630801904184192> 05/09/2025 09:31:54.788     [Error  ] - Execution Path: Inicio;Tabela;Add/Edit Lines, Program: "Inicio.Tabela.Add/Edit Lines".
+ <459630801904184192> 05/09/2025 09:31:54.789     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Inicio.Tabela.Add/Edit Lines".
+ <459630801904184192> 05/09/2025 09:31:54.790     [Error  ] -  Task Name: Inicio, Tag: 3, Parent Tag: 2, Program: "Inicio.Tabela.Add/Edit Lines".
+ <459630801904184192> 05/09/2025 09:31:54.791     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Inicio.Tabela.Add/Edit Lines".
+ <459630801904184192> 05/09/2025 09:31:54.792     [Error  ] -  Task Name: Add/Edit Lines, Tag: 5, Parent Tag: 4, Program: "Inicio.Tabela.Add/Edit Lines".
+ <459630801904184192> 05/09/2025 09:31:54.793     [Error  ] -  Task Name: Batch - LastId Salvar, Tag: 6, Parent Tag: 5, Program: "Inicio.Tabela.Add/Edit Lines".
+ <459630801904184192> 05/09/2025 09:31:54.793     [Error  ] - End Task Tree, Program: "Inicio.Tabela.Add/Edit Lines".
+ <459630801904184192> 05/09/2025 09:31:54.796     [Error  ] - Error: Thread aborted, so error marked.
+ <459630801904184192> 05/09/2025 09:31:54.798     [Error  ] - EndTaskRequest(): Inicio;Tabela;Add/Edit LinesERR-THREAD-ABORTED (-139) : "Inicio.Tabela.Add/Edit Lines" ("Ecoomerce")  (msgid "258")
+ <132146184782792480> 05/09/2025 09:32:52.578     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <132146184782792480> 05/09/2025 09:32:55.710     [Error  ] - Execution Path: Inicio;Tabela;Add/Edit Lines, Program: "Inicio.Tabela.Add/Edit Lines".
+ <132146184782792480> 05/09/2025 09:32:55.712     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Inicio.Tabela.Add/Edit Lines".
+ <132146184782792480> 05/09/2025 09:32:55.713     [Error  ] -  Task Name: Inicio, Tag: 3, Parent Tag: 2, Program: "Inicio.Tabela.Add/Edit Lines".
+ <132146184782792480> 05/09/2025 09:32:55.715     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Inicio.Tabela.Add/Edit Lines".
+ <132146184782792480> 05/09/2025 09:32:55.716     [Error  ] -  Task Name: Add/Edit Lines, Tag: 5, Parent Tag: 4, Program: "Inicio.Tabela.Add/Edit Lines".
+ <132146184782792480> 05/09/2025 09:32:55.717     [Error  ] -  Task Name: Batch - LastId Salvar, Tag: 6, Parent Tag: 5, Program: "Inicio.Tabela.Add/Edit Lines".
+ <132146184782792480> 05/09/2025 09:32:55.718     [Error  ] - End Task Tree, Program: "Inicio.Tabela.Add/Edit Lines".
+ <132146184782792480> 05/09/2025 09:32:55.721     [Error  ] - Error: Thread aborted, so error marked.
+ <132146184782792480> 05/09/2025 09:32:55.722     [Error  ] - EndTaskRequest(): Inicio;Tabela;Add/Edit LinesERR-THREAD-ABORTED (-139) : "Inicio.Tabela.Add/Edit Lines" ("Ecoomerce")  (msgid "264")
+ <290254266262487488> 05/09/2025 09:33:26.522     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <353326404898176192> 05/09/2025 09:34:25.706     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <353326404898176192> 05/09/2025 09:34:27.573     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <480147345152994048> 05/09/2025 09:39:25.307     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <480147345152994048> 05/09/2025 09:39:26.423     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <39353193912017960> 05/09/2025 10:39:24.273     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <511945275860187584> 05/09/2025 10:40:55.318     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <511945275860187584> 05/09/2025 10:40:56.898     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <214834896346492896> 05/09/2025 10:42:42.865     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <214834896346492896> 05/09/2025 10:42:43.792     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <24474325807099248> 05/09/2025 11:00:14.926     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <24474325807099248> 05/09/2025 11:00:16.568     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <470331667152507712> 05/09/2025 11:02:46.660     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <470331667152507712> 05/09/2025 11:02:47.414     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <470331667152507712> 05/09/2025 11:03:00.810     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <470331667152507712> 05/09/2025 11:03:01.959     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <470331667152507712> 05/09/2025 11:04:06.783     [Error  ] - Unable to perform the operation, the record has been changed by another user or process. Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <470331667152507712> 05/09/2025 11:04:06.794     [Error  ] - Unable to perform the operation, the record has been changed by another user or process. Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <110979333196859088> 05/09/2025 11:21:30.721     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <110979333196859088> 05/09/2025 11:21:32.144     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <208405802920353824> 05/09/2025 11:23:16.000     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <208405802920353824> 05/09/2025 11:23:17.593     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <208405802920353824> 05/09/2025 11:24:30.722     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <478813924096955904> 05/09/2025 11:50:49.441     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <478813924096955904> 05/09/2025 11:51:04.814     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <478813924096955904> 05/09/2025 11:51:17.237     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <478813924096955904> 05/09/2025 11:51:19.340     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <478813924096955904> 05/09/2025 11:51:39.920     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <478813924096955904> 05/09/2025 11:51:41.493     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <478813924096955904> 05/09/2025 11:52:06.856     [Error  ] - Unable to perform the operation, the record has been changed by another user or process. Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <478813924096955904> 05/09/2025 11:52:06.857     [Error  ] - Unable to perform the operation, the record has been changed by another user or process. Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <56683873450518800> 05/09/2025 11:52:52.630     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <10635720716322448> 05/09/2025 13:38:49.463     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <44758548154672320> 05/09/2025 13:42:20.767     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <193192679389532320> 05/09/2025 13:44:33.458     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <193192679389532320> 05/09/2025 13:44:36.304     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <327059751654821184> 05/09/2025 13:47:25.645     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <327059751654821184> 05/09/2025 13:47:27.706     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <70737859821681120> 05/09/2025 13:48:51.394     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <70737859821681120> 05/09/2025 13:48:54.990     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <70737859821681120> 05/09/2025 13:49:14.155     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <70737859821681120> 05/09/2025 13:49:27.864     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <70737859821681120> 05/09/2025 13:49:48.061     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <70737859821681120> 05/09/2025 13:49:48.065     [Error  ] - Duplicate Index, Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <566598163909601152> 05/09/2025 13:54:15.792     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <566598163909601152> 05/09/2025 13:54:16.706     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <422623725298211776> 05/09/2025 14:00:12.119     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <422623725298211776> 05/09/2025 14:00:13.077     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <250350055765654208> 05/09/2025 14:00:50.139     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <359311299748541696> 05/09/2025 14:01:32.873     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <267784376802196864> 05/09/2025 14:02:32.843     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <267784376802196864> 05/09/2025 14:02:47.205     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <267784376802196864> 05/09/2025 14:02:50.522     [Error  ] - Unable to perform the operation, the record has been changed by another user or process. Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Inicio".
+ <267784376802196864> 05/09/2025 14:02:53.539     [Error  ] - Execution Path: Inicio, Program: "Inicio".
+ <267784376802196864> 05/09/2025 14:02:53.540     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Inicio".
+ <267784376802196864> 05/09/2025 14:02:53.540     [Error  ] -  Task Name: Inicio, Tag: 3, Parent Tag: 2, Program: "Inicio".
+ <267784376802196864> 05/09/2025 14:02:53.541     [Error  ] - End Task Tree, Program: "Inicio".
+ <267784376802196864> 05/09/2025 14:02:53.542     [Error  ] - Error: Thread aborted, so error marked.
+ <267784376802196864> 05/09/2025 14:02:53.543     [Error  ] - EndTaskRequest(): Unable to perform the operation, the record has been changed by another user or process. Data Source: Order_Lines : Inicio InicioERR-THREAD-ABORTED (-139) : "Inicio.Tabela" ("Ecoomerce")  (msgid "1373")
+ <21929237032170084> 05/09/2025 14:11:13.092     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <506306093247519808> 05/09/2025 14:25:34.280     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\productsApple 2 GB iPod Nano                                        .jpg" not found., Program: "Main Program".
+ <506306093247519808> 05/09/2025 14:25:37.725     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products                                                            .jpg" not found., Program: "Main Program".
+ <139607255597771248> 05/09/2025 14:34:21.371     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\                                                            .jpg" not found., Program: "Main Program".
+ <189219937738572032> 05/09/2025 14:38:31.785     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\                                                            .jpg" not found., Program: "Main Program".
+ <60512403313755384> 05/09/2025 14:54:12.950     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <275834289503834400> 05/09/2025 14:55:06.210     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\                                                            .jpg" not found., Program: "Main Program".
+ <282463609068616192> 08/09/2025 08:15:12.373     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <210729723841124512> 08/09/2025 08:17:36.985     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\                                                            .jpg" not found., Program: "Main Program".
+ <331367685060575936> 08/09/2025 08:25:15.026     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <468376814421014272> 08/09/2025 08:31:52.558     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Apple 2 GB iPod Nano                                        .jpg" not found., Program: "Main Program".
+ <54118315480815320> 08/09/2025 08:33:01.097     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\                    .jpg" not found., Program: "Main Program".
+ <222926458571601280> 08/09/2025 08:42:24.503     [Error  ] - "WorkingDir%products/                    .jpg" not found., Program: "Main Program".
+ <222926458571601280> 08/09/2025 08:42:24.504     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\WorkingDir%products/                    .jpg" not found., Program: "Main Program".
+ <222926458571601280> 08/09/2025 08:42:31.049     [Error  ] - "WorkingDir%products/Apple 2 GB iPod Nano.jpg" not found., Program: "Main Program".
+ <222926458571601280> 08/09/2025 08:42:31.050     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\WorkingDir%products/Apple 2 GB iPod Nano.jpg" not found., Program: "Main Program".
+ <25077293675550408> 08/09/2025 08:44:05.030     [Error  ] - "WorkingDir%products/                    .jpg" not found., Program: "Main Program".
+ <25077293675550408> 08/09/2025 08:44:05.030     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\WorkingDir%products/                    .jpg" not found., Program: "Main Program".
+ <25077293675550408> 08/09/2025 08:44:08.908     [Error  ] - "WorkingDir%products/                    .jpg" not found., Program: "Main Program".
+ <25077293675550408> 08/09/2025 08:44:08.909     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\WorkingDir%products/                    .jpg" not found., Program: "Main Program".
+ <52934821847253624> 08/09/2025 08:45:45.858     [Error  ] - "WorkingDir%products/                    .jpg" not found., Program: "Main Program".
+ <52934821847253624> 08/09/2025 08:45:45.858     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\WorkingDir%products/                    .jpg" not found., Program: "Main Program".
+ <52934821847253624> 08/09/2025 08:45:50.203     [Error  ] - "WorkingDir%products/Apple 2 GB iPod Nano.jpg" not found., Program: "Main Program".
+ <52934821847253624> 08/09/2025 08:45:50.203     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\WorkingDir%products/Apple 2 GB iPod Nano.jpg" not found., Program: "Main Program".
+ <222969277110282880> 08/09/2025 08:46:33.624     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products/                    .jpg" not found., Program: "Main Program".
+ <218008458179112576> 08/09/2025 08:48:10.196     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products/                    .jpg" not found., Program: "Main Program".
+ <379577799394549184> 08/09/2025 08:50:15.490     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products/                    .jpg" not found., Program: "Main Program".
+ <360904739936581056> 08/09/2025 08:50:52.089     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products/                    .jpg" not found., Program: "Main Program".
+ <85559890214647824> 08/09/2025 08:51:50.857     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products/                    .jpg" not found., Program: "Main Program".
+ <110283363513316256> 08/09/2025 08:53:30.707     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products/                    .jpg" not found., Program: "Main Program".
+ <88212915584443808> 08/09/2025 08:58:43.055     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products/                    .jpg" not found., Program: "Main Program".
+ <88212915584443808> 08/09/2025 08:59:00.919     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products/                    .jpg" not found., Program: "Main Program".
+ <226307399340790912> 08/09/2025 09:19:35.503     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products/                    .jpg" not found., Program: "Main Program".
+ <474032408735992448> 08/09/2025 09:38:37.115     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products/                    .jpg" not found., Program: "Main Program".
+ <131771431061076864> 08/09/2025 09:52:42.688     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products/                    .jpg" not found., Program: "Main Program".
+ <131771431061076864> 08/09/2025 09:52:50.365     [Error  ] - Execution Path: Inicio;Tabela;Add/Edit Lines, Program: "Inicio.Tabela.Add/Edit Lines".
+ <131771431061076864> 08/09/2025 09:52:50.367     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Inicio.Tabela.Add/Edit Lines".
+ <131771431061076864> 08/09/2025 09:52:50.368     [Error  ] -  Task Name: Inicio, Tag: 3, Parent Tag: 2, Program: "Inicio.Tabela.Add/Edit Lines".
+ <131771431061076864> 08/09/2025 09:52:50.369     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Inicio.Tabela.Add/Edit Lines".
+ <131771431061076864> 08/09/2025 09:52:50.370     [Error  ] -  Task Name: Add/Edit Lines, Tag: 5, Parent Tag: 4, Program: "Inicio.Tabela.Add/Edit Lines".
+ <131771431061076864> 08/09/2025 09:52:50.371     [Error  ] - End Task Tree, Program: "Inicio.Tabela.Add/Edit Lines".
+ <131771431061076864> 08/09/2025 09:52:50.373     [Error  ] - Error: Thread aborted, so error marked.
+ <131771431061076864> 08/09/2025 09:52:50.375     [Error  ] - EndTaskRequest(): Inicio;Tabela;Add/Edit LinesERR-THREAD-ABORTED (-139) : "Inicio.Tabela.Add/Edit Lines" ("Ecoomerce")  (msgid "1006")
+ <170244123405703840> 08/09/2025 10:14:19.746     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <245609590182358048> 08/09/2025 10:16:34.639     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <519021899315696576> 08/09/2025 10:25:24.893     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <413128517963074432> 08/09/2025 10:30:16.212     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <413128517963074432> 08/09/2025 10:30:28.561     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <124970033515505088> 08/09/2025 10:31:16.193     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <271314594095738208> 08/09/2025 10:33:54.301     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <116762049280001408> 08/09/2025 10:36:29.023     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <517185816757638016> 08/09/2025 10:38:46.313     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <509932519181143040> 08/09/2025 10:39:59.470     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <146074555043594912> 08/09/2025 11:01:13.693     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <203744428269731584> 08/09/2025 11:06:01.694     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <312469613125171840> 08/09/2025 11:06:38.890     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <400404891677992064> 08/09/2025 11:19:32.715     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <472921882939121408> 08/09/2025 11:20:45.934     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <171606664865811296> 08/09/2025 11:22:32.824     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <352747341268004160> 08/09/2025 11:47:39.774     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <352747341268004160> 08/09/2025 11:47:50.587     [Error  ] - Aborting context 352747341268004160, Program: "Main Program".
+ <168705151844593760> 08/09/2025 13:20:47.572     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <168705151844593760> 08/09/2025 13:20:50.464     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <433908788979313152> 08/09/2025 13:22:05.208     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <336145584275591104> 08/09/2025 13:22:29.755     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <336145584275591104> 08/09/2025 13:22:45.858     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <435600988544601472> 08/09/2025 13:27:55.727     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <435600988544601472> 08/09/2025 13:28:34.612     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <566786118333945344> 08/09/2025 13:33:05.379     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <358279681169958976> 08/09/2025 13:33:50.348     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <230313018700906496> 08/09/2025 13:37:15.443     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <495167823849053952> 08/09/2025 13:39:47.617     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <34845634798297024> 08/09/2025 13:40:08.424     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <121625502670128624> 08/09/2025 13:44:52.264     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <533966827869508352> 08/09/2025 13:45:30.951     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <396160409110310656> 08/09/2025 13:46:39.287     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <396160409110310656> 08/09/2025 13:46:48.423     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <424452894417779968> 08/09/2025 13:58:01.751     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <319470898845486720> 08/09/2025 14:00:21.534     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <319470898845486720> 08/09/2025 14:04:15.507     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <319470898845486720> 08/09/2025 14:04:22.251     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <319470898845486720> 08/09/2025 14:04:29.399     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <297082624035383808> 08/09/2025 14:20:22.260     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <297082624035383808> 08/09/2025 14:20:32.496     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <38229465043734312> 08/09/2025 14:22:26.422     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <357816768172209536> 08/09/2025 14:23:06.331     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <536278569006567744> 08/09/2025 14:24:11.420     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <157886660713729600> 08/09/2025 14:25:18.918     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <308239475626029376> 08/09/2025 14:25:43.997     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <183693475412439904> 08/09/2025 14:28:10.582     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <183693475412439904> 08/09/2025 14:28:21.762     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <430465023369901440> 08/09/2025 14:28:59.933     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <430465023369901440> 08/09/2025 14:29:08.130     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <155055892934274592> 08/09/2025 14:29:27.971     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <155055892934274592> 08/09/2025 14:29:33.451     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <68103887548657624> 08/09/2025 14:30:23.533     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <266447617783452192> 08/09/2025 14:33:21.021     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <266447617783452192> 08/09/2025 14:33:31.085     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <364159618939705664> 08/09/2025 14:37:28.925     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <510846129839799744> 08/09/2025 14:38:14.164     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <231839586111922208> 08/09/2025 14:50:36.000     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <357609734859069824> 08/09/2025 14:52:48.314     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <25405623868876292> 08/09/2025 15:00:27.183     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <227463096098506240> 08/09/2025 15:06:08.804     [Error  ] - Execution Path: Início;Tabela, Program: "Início.Tabela".
+ <227463096098506240> 08/09/2025 15:06:08.806     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Início.Tabela".
+ <227463096098506240> 08/09/2025 15:06:08.807     [Error  ] -  Task Name: Início, Tag: 3, Parent Tag: 2, Program: "Início.Tabela".
+ <227463096098506240> 08/09/2025 15:06:08.808     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Início.Tabela".
+ <227463096098506240> 08/09/2025 15:06:08.809     [Error  ] -  Task Name: Add/Edit Lines, Tag: 5, Parent Tag: 4, Program: "Início.Tabela".
+ <227463096098506240> 08/09/2025 15:06:08.810     [Error  ] - End Task Tree, Program: "Início.Tabela".
+ <227463096098506240> 08/09/2025 15:06:08.812     [Error  ] - Error: Thread aborted, so error marked.
+ <227463096098506240> 08/09/2025 15:06:08.813     [Error  ] - EndTaskRequest(): Início;TabelaERR-THREAD-ABORTED (-139) : "Início.Tabela.Add/Edit Lines" ("Ecoomerce")  (msgid "818")
+ <447732039117086144> 08/09/2025 15:10:04.145     [Error  ] - EndTaskRequest(): Error: "Program is not set as External" (-261) : "Início" ("Ecoomerce")  (msgid "821"), Program: "Main Program".
+ <137711160330542592> 08/09/2025 15:13:40.335     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <137711160330542592> 08/09/2025 15:13:59.077     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <137711160330542592> 08/09/2025 15:14:02.318     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <256159475847116480> 08/09/2025 15:14:21.239     [Error  ] - Aborting context 256159475847116480, Program: "Main Program".
+ <47181615531590000> 08/09/2025 15:15:13.134     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <18318542309284272> 08/09/2025 15:17:47.206     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <415010164300427328> 08/09/2025 15:20:19.301     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <337115158431510784> 08/09/2025 15:23:18.871     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <488502963896320960> 08/09/2025 15:23:42.071     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <215827031747871488> 08/09/2025 15:24:54.071     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <335470929375162240> 08/09/2025 15:25:49.351     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <523299102991493504> 08/09/2025 15:26:16.723     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
