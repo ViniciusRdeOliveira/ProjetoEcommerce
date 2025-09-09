@@ -26,108 +26,24 @@
         <HandlerIsn Val="4"/>
       </ExpandedItem>
       <ExpandedItem>
-        <TaskIsn Val="1"/>
+        <TaskIsn Val="24"/>
         <Type Val="2"/>
-        <HandlerIsn Val="5"/>
+        <HandlerIsn Val="3"/>
       </ExpandedItem>
       <ExpandedItem>
-        <TaskIsn Val="1"/>
+        <TaskIsn Val="24"/>
+        <Type Val="2"/>
+        <HandlerIsn Val="6"/>
+      </ExpandedItem>
+      <ExpandedItem>
+        <TaskIsn Val="24"/>
         <Type Val="2"/>
         <HandlerIsn Val="7"/>
-      </ExpandedItem>
-      <ExpandedItem>
-        <TaskIsn Val="1"/>
-        <Type Val="2"/>
-        <HandlerIsn Val="8"/>
-      </ExpandedItem>
-      <ExpandedItem>
-        <TaskIsn Val="1"/>
-        <Type Val="2"/>
-        <HandlerIsn Val="9"/>
-      </ExpandedItem>
-      <ExpandedItem>
-        <TaskIsn Val="21"/>
-        <Type Val="1"/>
-        <OperationIsn Val="9"/>
-      </ExpandedItem>
-      <ExpandedItem>
-        <TaskIsn Val="24"/>
-        <Type Val="2"/>
-        <HandlerIsn Val="3"/>
-      </ExpandedItem>
-      <ExpandedItem>
-        <TaskIsn Val="24"/>
-        <Type Val="2"/>
-        <HandlerIsn Val="4"/>
-      </ExpandedItem>
-      <ExpandedItem>
-        <TaskIsn Val="21"/>
-        <Type Val="1"/>
-        <OperationIsn Val="22"/>
-      </ExpandedItem>
-      <ExpandedItem>
-        <TaskIsn Val="21"/>
-        <Type Val="1"/>
-        <OperationIsn Val="26"/>
-      </ExpandedItem>
-    </Program>
-    <Program PrgIsn="4">
-      <ExpandedItem>
-        <TaskIsn Val="1"/>
-        <Type Val="2"/>
-        <HandlerIsn Val="6"/>
-      </ExpandedItem>
-      <ExpandedItem>
-        <TaskIsn Val="1"/>
-        <Type Val="2"/>
-        <HandlerIsn Val="3"/>
-      </ExpandedItem>
-      <ExpandedItem>
-        <TaskIsn Val="2"/>
-        <Type Val="2"/>
-        <HandlerIsn Val="6"/>
-      </ExpandedItem>
-      <ExpandedItem>
-        <TaskIsn Val="3"/>
-        <Type Val="2"/>
-        <HandlerIsn Val="3"/>
-      </ExpandedItem>
-      <ExpandedItem>
-        <TaskIsn Val="3"/>
-        <Type Val="2"/>
-        <HandlerIsn Val="4"/>
-      </ExpandedItem>
-      <ExpandedItem>
-        <TaskIsn Val="3"/>
-        <Type Val="4"/>
-        <OperationIsn Val="18"/>
-      </ExpandedItem>
-      <ExpandedItem>
-        <TaskIsn Val="3"/>
-        <Type Val="4"/>
-        <OperationIsn Val="11"/>
-      </ExpandedItem>
-      <ExpandedItem>
-        <TaskIsn Val="4"/>
-        <Type Val="2"/>
-        <HandlerIsn Val="3"/>
       </ExpandedItem>
     </Program>
   </ExpandedItems>
 
   <VisitedTasks>
-    <VisitedTask>
-      <PrgIsn Val="19"/>
-      <TaskIsn Val="1"/>
-    </VisitedTask>
-    <VisitedTask>
-      <PrgIsn Val="19"/>
-      <TaskIsn Val="21"/>
-    </VisitedTask>
-    <VisitedTask>
-      <PrgIsn Val="19"/>
-      <TaskIsn Val="22"/>
-    </VisitedTask>
     <VisitedTask>
       <PrgIsn Val="18"/>
       <TaskIsn Val="1"/>
@@ -138,35 +54,19 @@
     </VisitedTask>
     <VisitedTask>
       <PrgIsn Val="18"/>
-      <TaskIsn Val="22"/>
+      <TaskIsn Val="24"/>
     </VisitedTask>
     <VisitedTask>
       <PrgIsn Val="18"/>
       <TaskIsn Val="21"/>
     </VisitedTask>
     <VisitedTask>
-      <PrgIsn Val="4"/>
-      <TaskIsn Val="1"/>
-    </VisitedTask>
-    <VisitedTask>
-      <PrgIsn Val="4"/>
-      <TaskIsn Val="2"/>
-    </VisitedTask>
-    <VisitedTask>
-      <PrgIsn Val="4"/>
-      <TaskIsn Val="3"/>
-    </VisitedTask>
-    <VisitedTask>
-      <PrgIsn Val="4"/>
-      <TaskIsn Val="4"/>
-    </VisitedTask>
-    <VisitedTask>
-      <PrgIsn Val="20"/>
-      <TaskIsn Val="1"/>
+      <PrgIsn Val="18"/>
+      <TaskIsn Val="25"/>
     </VisitedTask>
     <VisitedTask>
       <PrgIsn Val="18"/>
-      <TaskIsn Val="24"/>
+      <TaskIsn Val="26"/>
     </VisitedTask>
   </VisitedTasks>
 

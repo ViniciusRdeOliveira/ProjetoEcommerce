@@ -13,8 +13,8 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="Início" ISN_2="1" LastIsn="24" id="18">
-          <LastModified _date="739502" _time="55656" date="09/08/2025" time="15:27:36"/>
+        <Header Description="Início" ISN_2="1" LastIsn="26" id="18">
+          <LastModified _date="739503" _time="36065" date="09/09/2025" time="10:01:05"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -532,8 +532,8 @@
           </Event>
         </EVNT>
         <Task MainProgram="N">
-          <Header Description="Tabela" ISN_2="21" LastIsn="24" id="18">
-            <LastModified _date="739502" _time="55656" date="09/08/2025" time="15:27:36"/>
+          <Header Description="Tabela" ISN_2="21" LastIsn="26" id="18">
+            <LastModified _date="739503" _time="35222" date="09/09/2025" time="09:47:02"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -985,8 +985,7 @@
                         <Skip val="N"/>
                       </Argument>
                       <Argument>
-                        <Variable val="34"/>
-                        <Skip val="N"/>
+                        <Skip val="Y"/>
                       </Argument>
                     </Arguments>
                     <Wait val="Y"/>
@@ -1038,8 +1037,7 @@
                         <Skip val="N"/>
                       </Argument>
                       <Argument>
-                        <Variable val="34"/>
-                        <Skip val="N"/>
+                        <Skip val="Y"/>
                       </Argument>
                     </Arguments>
                     <Wait val="Y"/>
@@ -1392,8 +1390,8 @@
             </Event>
           </EVNT>
           <Task MainProgram="N">
-            <Header Description="Add/Edit Lines" ISN_2="24" LastIsn="24" id="18">
-              <LastModified _date="739502" _time="55063" date="09/08/2025" time="15:17:43"/>
+            <Header Description="Add/Edit Lines" ISN_2="24" LastIsn="26" id="18">
+              <LastModified _date="739503" _time="36065" date="09/09/2025" time="10:01:05"/>
               <ExecutionRight comp="-1"/>
               <Resident val="N"/>
               <SQL val="N"/>
@@ -1415,7 +1413,7 @@
               <FormType val="D"/>
               <DotNetObjectExists val="N"/>
             </Header>
-            <ItemIsn val="25"/>
+            <ItemIsn val="29"/>
             <Resource>
               <DB id="2">
                 <DataObject comp="-1" obj="6"/>
@@ -1470,20 +1468,30 @@
                     <_FieldStyle id="276" val="1"/>
                   </PropertyList>
                 </Column>
+                <Column id="17" name="Quantidade_Original">
+                  <PropertyList model="FIELD">
+                    <Model attr_obj="FIELD_NUMERIC" comp="-1" id="1" obj="1"/>
+                    <DbColumnName id="178"/>
+                    <Type id="179"/>
+                    <UserType id="180"/>
+                  </PropertyList>
+                </Column>
                 <Column id="8" name="p.Quantidade_Compra">
                   <PropertyList model="FIELD">
-                    <Model attr_obj="FIELD_NUMERIC" id="1"/>
-                    <Picture id="157" valUnicode="9"/>
+                    <Model attr_obj="FIELD_NUMERIC" comp="-1" id="1" obj="1"/>
+                    <Picture id="157" valUnicode="2"/>
+                    <DbColumnName id="178"/>
+                    <Type id="179"/>
+                    <UserType id="180"/>
                     <_Dec id="181"/>
-                    <_Whole id="182" val="9"/>
+                    <_Whole id="182" val="2"/>
                     <_Negative id="192"/>
-                    <_FieldStyle id="276" val="1"/>
                     <RichClient id="453">
-                      <PropertyList model="CTRL_RICH_CLIENT_LISTBOX"/>
+                      <PropertyList model="CTRL_RICH_CLIENT_EDIT"/>
                     </RichClient>
                   </PropertyList>
                 </Column>
-                <Column id="13" name="CHG_REASON_p.Quantidade_Compra">
+                <Column id="15" name="CHG_REASON_p.Quantidade_Compra">
                   <PropertyList model="FIELD">
                     <Model attr_obj="FIELD_NUMERIC" id="1"/>
                     <Picture id="157" valUnicode="2"/>
@@ -1493,15 +1501,13 @@
                     <_Negative id="192"/>
                   </PropertyList>
                 </Column>
-                <Column id="14" name="CHG_PRV_p.Quantidade_Compra">
+                <Column id="16" name="CHG_PRV_p.Quantidade_Compra">
                   <PropertyList model="FIELD">
-                    <Model attr_obj="FIELD_NUMERIC" id="1"/>
-                    <Picture id="157" valUnicode="9"/>
-                    <_Dec id="181"/>
-                    <_Whole id="182" val="9"/>
-                    <_Negative id="192"/>
+                    <Model attr_obj="FIELD_NUMERIC" comp="-1" id="1" obj="1"/>
+                    <DbColumnName id="178"/>
+                    <Type id="179"/>
+                    <UserType id="180"/>
                     <PartOfDatetime id="244"/>
-                    <_FieldStyle id="276" val="1"/>
                     <RichClient id="453">
                       <PropertyList model="CTRL_RICH_CLIENT_LISTBOX"/>
                     </RichClient>
@@ -1533,10 +1539,10 @@
                 <LockingStrategy val="M"/>
                 <CacheStrategy val="D"/>
                 <ForceRecordSuffix val="N"/>
-                <TransactionMode val="D"/>
-                <TransactionBegin val="P"/>
+                <TransactionMode val="O"/>
+                <TransactionBegin val="N"/>
                 <PreloadView val="N"/>
-                <AllowEmptyDataview val="Y"/>
+                <AllowEmptyDataview val="N"/>
                 <KeepCreatedContext val="N"/>
               </TaskProperties>
               <SIDE_WIN>
@@ -1658,6 +1664,19 @@
                     </Select>
                   </LogicLine>
                   <LogicLine>
+                    <Select FieldID="29" FlowIsn="65" id="29">
+                      <Column val="17"/>
+                      <Type val="V"/>
+                      <ExposedToRoute val="N"/>
+                      <IsParameter val="N"/>
+                      <DIFF_UPDATE val="T"/>
+                      <PartOfDataview val="Y"/>
+                      <Condition val="Y"/>
+                      <Modifier val="S"/>
+                      <Direction val="C"/>
+                    </Select>
+                  </LogicLine>
+                  <LogicLine>
                     <Select FieldID="19" FlowIsn="27" id="19">
                       <Column val="8"/>
                       <Type val="V"/>
@@ -1665,6 +1684,7 @@
                       <IsParameter val="N"/>
                       <_DitIndexForToolkit val="7"/>
                       <DIFF_UPDATE val="T"/>
+                      <PartOfDataview val="Y"/>
                       <Condition val="Y"/>
                       <Modifier val="S"/>
                       <Direction val="C"/>
@@ -1686,7 +1706,7 @@
                 <ExecuteOn_ val="O"/>
                 <LogicLines>
                   <LogicLine>
-                    <CallTask FlowIsn="17">
+                    <CallTask FlowIsn="76">
                       <OperationType val="P"/>
                       <Event>
                         <EventType val="N"/>
@@ -1721,7 +1741,32 @@
                   </LogicLine>
                 </LogicLines>
               </LogicUnit>
-              <LogicUnit id="4" propagate="78">
+              <LogicUnit id="7" propagate="78">
+                <Level val="R"/>
+                <Type val="S"/>
+                <Scope val="S"/>
+                <EngineDirective val="S"/>
+                <ShowMessage val="Y"/>
+                <Condition val="89"/>
+                <Event>
+                  <EventType val="S"/>
+                </Event>
+                <ExecuteOn_ val="O"/>
+                <LogicLines>
+                  <LogicLine>
+                    <Update FlowIsn="81">
+                      <FieldID val="29"/>
+                      <WithValue val="12"/>
+                      <Incremental val="N"/>
+                      <ForcedUpdate val="Y"/>
+                      <Condition val="Y"/>
+                      <Modifier val="B"/>
+                      <Direction val="C"/>
+                    </Update>
+                  </LogicLine>
+                </LogicLines>
+              </LogicUnit>
+              <LogicUnit id="6" propagate="78">
                 <Level val="V"/>
                 <Type val="C"/>
                 <FieldID val="19"/>
@@ -1735,8 +1780,8 @@
                 <ExecuteOn_ val="O"/>
                 <LogicLines>
                   <LogicLine>
-                    <Select FieldID="24" FlowIsn="47" id="24">
-                      <Column val="13"/>
+                    <Select FieldID="26" FlowIsn="51" id="26">
+                      <Column val="15"/>
                       <Type val="V"/>
                       <ExposedToRoute val="N"/>
                       <IsParameter val="Y"/>
@@ -1747,8 +1792,8 @@
                     </Select>
                   </LogicLine>
                   <LogicLine>
-                    <Select FieldID="25" FlowIsn="48" id="25">
-                      <Column val="14"/>
+                    <Select FieldID="27" FlowIsn="52" id="27">
+                      <Column val="16"/>
                       <Type val="V"/>
                       <ExposedToRoute val="N"/>
                       <IsParameter val="Y"/>
@@ -1759,10 +1804,9 @@
                     </Select>
                   </LogicLine>
                   <LogicLine>
-                    <Update FlowIsn="20">
-                      <Parent val="21"/>
-                      <FieldID val="11"/>
-                      <WithValue val="6"/>
+                    <Update FlowIsn="82">
+                      <FieldID val="18"/>
+                      <WithValue val="13"/>
                       <Incremental val="N"/>
                       <ForcedUpdate val="Y"/>
                       <Condition val="Y"/>
@@ -1774,7 +1818,7 @@
               </LogicUnit>
             </TaskLogic>
             <TaskForms>
-              <FormEntry _last_isn="16" _last_test_id="19" id="1">
+              <FormEntry _last_isn="20" _last_test_id="23" id="1">
                 <PropertyList model="FORM_RICH_CLIENT">
                   <Model comp="-1" id="1" obj="3"/>
                   <Width id="23" val="465"/>
@@ -1849,7 +1893,7 @@
                     <TabOrder id="314" val="7"/>
                   </PropertyList>
                 </Control>
-                <Control PDOD="1" _test_id="13" id="6">
+                <Control _test_id="13" id="6">
                   <PropertyList model="CTRL_RICH_CLIENT_EDIT">
                     <Model comp="-1" id="1" obj="9"/>
                     <X id="21" val="205"/>
@@ -1860,6 +1904,7 @@
                     <ControlName id="46" val="Stock_Quantity"/>
                     <HorizontalAlignment id="65" val="1"/>
                     <MultiLineEdit id="71"/>
+                    <Format id="82" valUnicode="N9"/>
                     <TabOrder id="314" val="8"/>
                     <AllowParking id="315"/>
                   </PropertyList>
@@ -1874,6 +1919,7 @@
                     <Data FieldID="19" id="43"/>
                     <ControlName id="46" val="p.Product_Quantity"/>
                     <MultiLineEdit id="71"/>
+                    <Format id="82" valUnicode="2"/>
                     <TabOrder id="314" val="9"/>
                   </PropertyList>
                 </Control>
@@ -1972,12 +2018,12 @@
                 <ExpSyntax val="'%WorkingDir%products\'&amp;Trim({0,16})&amp;'.jpg'"/>
                 <ExpAttribute val="A"/>
               </Expression>
-              <Expression id="6">
-                <ExpSyntax val="{0,17}*{0,19}"/>
+              <Expression id="12">
+                <ExpSyntax val="{0,18}"/>
                 <ExpAttribute val="N"/>
               </Expression>
-              <Expression id="8">
-                <ExpSyntax val="{0,15}"/>
+              <Expression id="13">
+                <ExpSyntax val="{0,29}-{0,19}"/>
                 <ExpAttribute val="N"/>
               </Expression>
             </Expressions>
@@ -1989,7 +2035,7 @@
           </Task>
         </Task>
         <Task MainProgram="N">
-          <Header Description="Delete Itens" ISN_2="19" LastIsn="24" id="18">
+          <Header Description="Delete Itens" ISN_2="19" LastIsn="26" id="18">
             <LastModified _date="739502" _time="48447" date="09/08/2025" time="13:27:27"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
