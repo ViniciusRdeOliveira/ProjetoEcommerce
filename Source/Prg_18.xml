@@ -13,8 +13,8 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="Início" ISN_2="1" LastIsn="26" id="18">
-          <LastModified _date="739503" _time="36065" date="09/09/2025" time="10:01:05"/>
+        <Header Description="Início" ISN_2="1" LastIsn="24" id="18">
+          <LastModified _date="739503" _time="42894" date="09/09/2025" time="11:54:54"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -532,8 +532,8 @@
           </Event>
         </EVNT>
         <Task MainProgram="N">
-          <Header Description="Tabela" ISN_2="21" LastIsn="26" id="18">
-            <LastModified _date="739503" _time="35222" date="09/09/2025" time="09:47:02"/>
+          <Header Description="Tabela" ISN_2="21" LastIsn="24" id="18">
+            <LastModified _date="739503" _time="42894" date="09/09/2025" time="11:54:54"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -628,7 +628,7 @@
             <InitialMode val="M"/>
             <Locate Direction="A"/>
             <Range Direction="A"/>
-            <VarRange LastIsn="1"/>
+            <VarRange LastIsn="2"/>
             <TaskProperties>
               <SelectionTable val="N"/>
               <ConfirmUpdate CNFU="N"/>
@@ -697,6 +697,9 @@
                     <Type val="V"/>
                     <ExposedToRoute val="N"/>
                     <IsParameter val="Y"/>
+                    <INT_RCMP_INFO>
+                      <v>101</v>
+                    </INT_RCMP_INFO>
                     <DIFF_UPDATE val="T"/>
                     <Condition val="Y"/>
                     <Modifier val="S"/>
@@ -705,10 +708,12 @@
                 </LogicLine>
                 <LogicLine>
                   <Select FieldID="31" FlowIsn="101" id="31">
+                    <ASS val="9"/>
                     <Column val="1"/>
                     <Type val="R"/>
                     <ExposedToRoute val="N"/>
                     <IsParameter val="N"/>
+                    <Range MAX="9" MIN="9"/>
                     <_DitIndexForToolkit val="12"/>
                     <DIFF_UPDATE val="T"/>
                     <Condition val="Y"/>
@@ -764,6 +769,9 @@
                     <Type val="R"/>
                     <ExposedToRoute val="N"/>
                     <IsParameter val="N"/>
+                    <INT_DIT_INFO>
+                      <v>13</v>
+                    </INT_DIT_INFO>
                     <_DitIndexForToolkit val="18"/>
                     <DIFF_UPDATE val="T"/>
                     <Condition val="Y"/>
@@ -810,6 +818,9 @@
                     <Type val="R"/>
                     <ExposedToRoute val="N"/>
                     <IsParameter val="N"/>
+                    <INT_DIT_INFO>
+                      <v>13</v>
+                    </INT_DIT_INFO>
                     <DIFF_UPDATE val="T"/>
                     <Condition val="N"/>
                     <Modifier val="S"/>
@@ -937,7 +948,6 @@
                     <Type val="V"/>
                     <ExposedToRoute val="N"/>
                     <IsParameter val="N"/>
-                    <_DitIndexForToolkit val="19"/>
                     <DIFF_UPDATE val="T"/>
                     <Condition val="Y"/>
                     <Modifier val="S"/>
@@ -1318,7 +1328,7 @@
                   <CornerRadius id="668"/>
                 </PropertyList>
               </Control>
-              <Control ISN_FATHER="2" PDOD="17" _test_id="15" id="13">
+              <Control ISN_FATHER="2" PDOD="1" _test_id="15" id="13">
                 <PropertyList model="CTRL_RICH_CLIENT_EDIT">
                   <Model comp="-1" id="1" obj="9"/>
                   <Placement bottom="100" id="20" right="100"/>
@@ -1327,10 +1337,12 @@
                   <Width id="23" val="33"/>
                   <Height id="24" val="12"/>
                   <ControlLayer id="25" val="8"/>
-                  <Data FieldID="11" id="43"/>
+                  <Data Exp="8" id="43"/>
                   <ControlName id="46" val="V.Line_Total"/>
                   <_Style id="63" val="1"/>
                   <HorizontalAlignment id="65" val="2"/>
+                  <Format id="82" valUnicode="4"/>
+                  <Attribute id="83" val="78"/>
                   <TabOrder id="314" val="9"/>
                   <Border id="452"/>
                   <CornerRadius id="668"/>
@@ -1378,6 +1390,14 @@
               <ExpSyntax val="{0,13}"/>
               <ExpAttribute val="N"/>
             </Expression>
+            <Expression id="8">
+              <ExpSyntax val="{0,34}*{0,9}"/>
+              <ExpAttribute val="N"/>
+            </Expression>
+            <Expression id="9">
+              <ExpSyntax val="{0,29}"/>
+              <ExpAttribute val="N"/>
+            </Expression>
           </Expressions>
           <EVNT DESC="AddProduto" FORCE_EXIT="N" id="1">
             <Event>
@@ -1389,9 +1409,10 @@
               <EventType val="N"/>
             </Event>
           </EVNT>
+          <VarRangeInfo Mode="E" VarRangeVeeIsn="31" id="2"/>
           <Task MainProgram="N">
-            <Header Description="Add/Edit Lines" ISN_2="24" LastIsn="26" id="18">
-              <LastModified _date="739503" _time="36065" date="09/09/2025" time="10:01:05"/>
+            <Header Description="Add/Edit Lines" ISN_2="24" LastIsn="24" id="18">
+              <LastModified _date="739503" _time="41963" date="09/09/2025" time="11:39:23"/>
               <ExecutionRight comp="-1"/>
               <Resident val="N"/>
               <SQL val="N"/>
@@ -1764,6 +1785,18 @@
                       <Direction val="C"/>
                     </Update>
                   </LogicLine>
+                  <LogicLine>
+                    <Update FlowIsn="85">
+                      <Parent val="21"/>
+                      <FieldID val="34"/>
+                      <WithValue val="14"/>
+                      <Incremental val="N"/>
+                      <ForcedUpdate val="Y"/>
+                      <Condition val="Y"/>
+                      <Modifier val="B"/>
+                      <Direction val="C"/>
+                    </Update>
+                  </LogicLine>
                 </LogicLines>
               </LogicUnit>
               <LogicUnit id="6" propagate="78">
@@ -2026,6 +2059,10 @@
                 <ExpSyntax val="{0,29}-{0,19}"/>
                 <ExpAttribute val="N"/>
               </Expression>
+              <Expression id="14">
+                <ExpSyntax val="{0,19}"/>
+                <ExpAttribute val="N"/>
+              </Expression>
             </Expressions>
             <EVNT DESC="BuscaProduto" FORCE_EXIT="E" id="1">
               <Event>
@@ -2035,7 +2072,7 @@
           </Task>
         </Task>
         <Task MainProgram="N">
-          <Header Description="Delete Itens" ISN_2="19" LastIsn="26" id="18">
+          <Header Description="Delete Itens" ISN_2="19" LastIsn="24" id="18">
             <LastModified _date="739502" _time="48447" date="09/08/2025" time="13:27:27"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
