@@ -681,3 +681,127 @@
  <402923450045375872> 10/09/2025 11:45:52.694     [Error  ] - EndTaskRequest(): Início;Tabela;Add/Edit LinesERR-THREAD-ABORTED (-139) : "Início.Tabela.Add/Edit Lines.E-Commerce Produtos" ("Ecoomerce")  (msgid "229")
  <441307505503374784> 10/09/2025 11:47:36.299     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
  <441307505503374784> 10/09/2025 11:47:46.384     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <328774172123475648> 10/09/2025 11:56:50.490     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <328774172123475648> 10/09/2025 11:57:02.534     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <328774172123475648> 10/09/2025 11:57:13.746     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <328774172123475648> 10/09/2025 11:57:19.178     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Single Digital Walki.jpg" not found., Program: "Main Program".
+ <13800616466278820> 10/09/2025 12:04:14.867     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <13800616466278820> 10/09/2025 12:04:25.625     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <85037529522411840> 10/09/2025 12:07:38.664     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <85037529522411840> 10/09/2025 12:07:48.646     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <59939001269120808> 10/09/2025 12:49:48.122     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <59939001269120808> 10/09/2025 12:49:59.601     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <458715437811791360> 10/09/2025 12:51:20.630     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <458715437811791360> 10/09/2025 12:51:30.028     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <99718143472371792> 10/09/2025 12:52:21.074     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <43609545792063904> 10/09/2025 12:53:08.682     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <102917556206768368> 10/09/2025 14:37:12.273     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <102917556206768368> 10/09/2025 14:37:25.125     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <211383439963056064> 10/09/2025 15:13:51.757     [Error  ] - Aborting context 211383439963056064, Program: "Main Program".
+ <413803265546131264> 10/09/2025 15:17:26.191     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <413803265546131264> 10/09/2025 15:17:39.101     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <323047130255650112> 10/09/2025 15:18:16.675     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <323047130255650112> 10/09/2025 15:18:27.391     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <323047130255650112> 10/09/2025 15:18:38.072     [Error  ] - Execution Path: Início;Tabela, Program: "Início.Tabela".
+ <323047130255650112> 10/09/2025 15:18:38.074     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Início.Tabela".
+ <323047130255650112> 10/09/2025 15:18:38.074     [Error  ] -  Task Name: Início, Tag: 3, Parent Tag: 2, Program: "Início.Tabela".
+ <323047130255650112> 10/09/2025 15:18:38.075     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Início.Tabela".
+ <323047130255650112> 10/09/2025 15:18:38.076     [Error  ] -  Task Name: E-commerce - Salvar, Tag: 9, Parent Tag: 4, Program: "Início.Tabela".
+ <323047130255650112> 10/09/2025 15:18:38.077     [Error  ] - End Task Tree, Program: "Início.Tabela".
+ <323047130255650112> 10/09/2025 15:18:38.078     [Error  ] - Error: Thread aborted, so error marked.
+ <323047130255650112> 10/09/2025 15:18:38.080     [Error  ] - EndTaskRequest(): Início;TabelaERR-THREAD-ABORTED (-139) : "Início.Tabela.Add/Edit Lines" ("Ecoomerce")  (msgid "444")
+ <211436119247167712> 10/09/2025 15:19:22.086     [Error  ] - Aborting context 211436119247167712, Program: "Main Program".
+ <444678297888924672> 10/09/2025 15:19:50.997     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <444678297888924672> 10/09/2025 15:19:59.535     [Error  ] - Execution Path: Início;Tabela, Program: "Início.Tabela".
+ <444678297888924672> 10/09/2025 15:19:59.537     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Início.Tabela".
+ <444678297888924672> 10/09/2025 15:19:59.538     [Error  ] -  Task Name: Início, Tag: 3, Parent Tag: 2, Program: "Início.Tabela".
+ <444678297888924672> 10/09/2025 15:19:59.539     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Início.Tabela".
+ <444678297888924672> 10/09/2025 15:19:59.540     [Error  ] -  Task Name: E-commerce - Salvar, Tag: 8, Parent Tag: 4, Program: "Início.Tabela".
+ <444678297888924672> 10/09/2025 15:19:59.540     [Error  ] - End Task Tree, Program: "Início.Tabela".
+ <444678297888924672> 10/09/2025 15:19:59.542     [Error  ] - Error: Thread aborted, so error marked.
+ <444678297888924672> 10/09/2025 15:19:59.544     [Error  ] - EndTaskRequest(): Início;TabelaERR-THREAD-ABORTED (-139) : "Início.Tabela.Add/Edit Lines" ("Ecoomerce")  (msgid "499")
+ <122604182240472048> 10/09/2025 15:20:39.011     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <122604182240472048> 10/09/2025 15:20:48.940     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <122604182240472048> 10/09/2025 15:20:54.227     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Memory Foam Seat Cus.jpg" not found., Program: "Main Program".
+ <122604182240472048> 10/09/2025 15:21:06.295     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <122604182240472048> 10/09/2025 15:21:11.192     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <122604182240472048> 10/09/2025 15:21:25.533     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <214599757361970816> 10/09/2025 15:27:38.749     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <214599757361970816> 10/09/2025 15:27:43.499     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <214599757361970816> 10/09/2025 15:27:46.391     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Memory Foam Seat Cus.jpg" not found., Program: "Main Program".
+ <289381350987897536> 10/09/2025 16:29:57.925     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <289381350987897536> 10/09/2025 16:30:02.684     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Memory Foam Seat Cus.jpg" not found., Program: "Main Program".
+ <289381350987897536> 10/09/2025 16:30:10.872     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <289381350987897536> 10/09/2025 16:30:13.863     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Memory Foam Seat Cus.jpg" not found., Program: "Main Program".
+ <415919375867584704> 10/09/2025 16:36:34.132     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <415919375867584704> 10/09/2025 16:36:36.509     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Memory Foam Seat Cus.jpg" not found., Program: "Main Program".
+ <275543466843908544> 11/09/2025 08:01:51.566     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <275543466843908544> 11/09/2025 08:01:54.779     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Memory Foam Seat Cus.jpg" not found., Program: "Main Program".
+ <156239506535356640> 11/09/2025 08:09:40.521     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <156239506535356640> 11/09/2025 08:09:43.373     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Memory Foam Seat Cus.jpg" not found., Program: "Main Program".
+ <303264592144967232> 11/09/2025 08:11:30.100     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <303264592144967232> 11/09/2025 08:11:34.870     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Memory Foam Seat Cus.jpg" not found., Program: "Main Program".
+ <318173520176314624> 11/09/2025 08:23:28.029     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <318173520176314624> 11/09/2025 08:23:30.686     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Memory Foam Seat Cus.jpg" not found., Program: "Main Program".
+ <304388957578747200> 11/09/2025 08:26:30.042     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ <74516492918403136> 11/09/2025 09:26:03.604     [Error  ] - Execution Path: Ecommerce;Tabela, Program: "Ecommerce.Tabela".
+ <74516492918403136> 11/09/2025 09:26:03.608     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Ecommerce.Tabela".
+ <74516492918403136> 11/09/2025 09:26:03.609     [Error  ] -  Task Name: Ecommerce, Tag: 3, Parent Tag: 2, Program: "Ecommerce.Tabela".
+ <74516492918403136> 11/09/2025 09:26:03.609     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Ecommerce.Tabela".
+ <74516492918403136> 11/09/2025 09:26:03.610     [Error  ] - End Task Tree, Program: "Ecommerce.Tabela".
+ <74516492918403136> 11/09/2025 09:26:03.613     [Error  ] - Internal transaction error  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\"
+ <74516492918403136> 11/09/2025 09:26:03.614     [Error  ] - Error: Thread aborted, so error marked.
+ <74516492918403136> 11/09/2025 09:26:03.616     [Error  ] - EndTaskRequest(): Ecommerce;TabelaInternal transaction errorERR-THREAD-ABORTED (-139) : "Ecommerce" ("Ecoomerce")  (msgid "245")
+ <57286496363173656> 11/09/2025 10:44:57.257     [Error  ] - Unable to open the Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Ecommerce.Tabela".
+ <57286496363173656> 11/09/2025 10:44:57.260     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <57286496363173656> 11/09/2025 10:44:57.260     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Order_Lines : Tabela no such column: Custoer_Code : "Ecommerce" ("Ecoomerce")  (msgid "248"), Program: "Main Program".
+ <16446352998371524> 11/09/2025 10:46:20.220     [Error  ] - Unable to open the Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Ecommerce.Tabela".
+ <16446352998371524> 11/09/2025 10:46:20.221     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <16446352998371524> 11/09/2025 10:46:20.222     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Order_Lines : Tabela no such column: Custoer_Code : "Ecommerce" ("Ecoomerce")  (msgid "251"), Program: "Main Program".
+ <416124898720234624> 11/09/2025 11:17:20.640     [Error  ] - Unable to open the Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Ecommerce.Tabela".
+ <416124898720234624> 11/09/2025 11:17:20.641     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <416124898720234624> 11/09/2025 11:17:20.641     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Order_Lines : Tabela no such column: Custoer_Code : "Ecommerce" ("Ecoomerce")  (msgid "255"), Program: "Main Program".
+ <313093921749805952> 11/09/2025 11:33:31.222     [Error  ] - Unable to open the Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Ecommerce.Tabela".
+ <313093921749805952> 11/09/2025 11:33:31.222     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <313093921749805952> 11/09/2025 11:33:31.223     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Order_Lines : Tabela no such column: Custoer_Code : "Ecommerce" ("Ecoomerce")  (msgid "258"), Program: "Main Program".
+ <397826174484073664> 11/09/2025 11:34:41.902     [Error  ] - Unable to open the Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Ecommerce.Tabela".
+ <397826174484073664> 11/09/2025 11:34:41.902     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <397826174484073664> 11/09/2025 11:34:41.903     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Order_Lines : Tabela no such column: Custoer_Code : "Ecommerce" ("Ecoomerce")  (msgid "261"), Program: "Main Program".
+ <264415908485036288> 11/09/2025 13:29:34.381     [Error  ] - Unable to open the Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Ecommerce.Tabela".
+ <264415908485036288> 11/09/2025 13:29:34.382     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <264415908485036288> 11/09/2025 13:29:34.382     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Order_Lines : Tabela no such column: Custoer_Code : "Ecommerce" ("Ecoomerce")  (msgid "264"), Program: "Main Program".
+ <293123882430315520> 11/09/2025 13:31:25.646     [Error  ] - Unable to open the Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Ecommerce.Tabela".
+ <293123882430315520> 11/09/2025 13:31:25.646     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <293123882430315520> 11/09/2025 13:31:25.647     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Order_Lines : Tabela no such column: Custoer_Code : "Ecommerce" ("Ecoomerce")  (msgid "267"), Program: "Main Program".
+ <38008994502808272> 11/09/2025 13:42:03.692     [Error  ] - Execution Path: Ecommerce;Tabela, Program: "Ecommerce.Tabela".
+ <38008994502808272> 11/09/2025 13:42:03.693     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Ecommerce.Tabela".
+ <38008994502808272> 11/09/2025 13:42:03.694     [Error  ] -  Task Name: Ecommerce, Tag: 3, Parent Tag: 2, Program: "Ecommerce.Tabela".
+ <38008994502808272> 11/09/2025 13:42:03.696     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Ecommerce.Tabela".
+ <38008994502808272> 11/09/2025 13:42:03.696     [Error  ] - End Task Tree, Program: "Ecommerce.Tabela".
+ <38008994502808272> 11/09/2025 13:42:03.712     [Error  ] - Error: Thread aborted, so error marked.
+ <38008994502808272> 11/09/2025 13:42:03.714     [Error  ] - EndTaskRequest(): Ecommerce;TabelaERR-THREAD-ABORTED (-139) : "Ecommerce" ("Ecoomerce")  (msgid "270")
+ <-1> 11/09/2025 13:44:57.993     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <321219331160348608> 11/09/2025 14:10:15.032     [Error  ] - Execution Path: Ecommerce;Tabela, Program: "Ecommerce.Tabela".
+ <321219331160348608> 11/09/2025 14:10:15.035     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Ecommerce.Tabela".
+ <321219331160348608> 11/09/2025 14:10:15.041     [Error  ] -  Task Name: Ecommerce, Tag: 3, Parent Tag: 2, Program: "Ecommerce.Tabela".
+ <321219331160348608> 11/09/2025 14:10:15.042     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Ecommerce.Tabela".
+ <321219331160348608> 11/09/2025 14:10:15.043     [Error  ] - End Task Tree, Program: "Ecommerce.Tabela".
+ <321219331160348608> 11/09/2025 14:10:15.051     [Error  ] - Error: Thread aborted, so error marked.
+ <321219331160348608> 11/09/2025 14:10:15.054     [Error  ] - EndTaskRequest(): Ecommerce;TabelaERR-THREAD-ABORTED (-139) : "Ecommerce" ("Ecoomerce")  (msgid "330")
+ <46245308140770568> 11/09/2025 14:30:38.631     [Error  ] - Unable to open the Data Source: Orders  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Ecommerce.Tabela".
+ <46245308140770568> 11/09/2025 14:30:38.632     [Error  ] - Error: browser program failed to open..., Program: "Main Program".
+ <46245308140770568> 11/09/2025 14:30:38.633     [Error  ] - EndTaskRequest(): Unable to open the Data Source: Orders : Tabela no such column: Line_Number : "Ecommerce" ("Ecoomerce")  (msgid "333"), Program: "Main Program".
+ <383941986221911424> 11/09/2025 14:31:37.550     [Error  ] - Execution Path: Ecommerce;Tabela, Program: "Ecommerce.Tabela".
+ <383941986221911424> 11/09/2025 14:31:37.551     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Ecommerce.Tabela".
+ <383941986221911424> 11/09/2025 14:31:37.551     [Error  ] -  Task Name: Ecommerce, Tag: 3, Parent Tag: 2, Program: "Ecommerce.Tabela".
+ <383941986221911424> 11/09/2025 14:31:37.551     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Ecommerce.Tabela".
+ <383941986221911424> 11/09/2025 14:31:37.552     [Error  ] - End Task Tree, Program: "Ecommerce.Tabela".
+ <383941986221911424> 11/09/2025 14:31:37.675     [Error  ] - Error: Thread aborted, so error marked.
+ <383941986221911424> 11/09/2025 14:31:37.676     [Error  ] - EndTaskRequest(): Ecommerce;TabelaOut of memory. while trying to allocate 303709180 bytes. : "Ecommerce" ("Ecoomerce")  (msgid "336")
+ <161574488038536640> 11/09/2025 14:31:51.766     [Error  ] - Execution Path: Ecommerce;Tabela, Program: "Ecommerce.Tabela".
+ <161574488038536640> 11/09/2025 14:31:51.766     [Error  ] -  Task Name: Main Program, Tag: 2, Program: "Ecommerce.Tabela".
+ <161574488038536640> 11/09/2025 14:31:51.767     [Error  ] -  Task Name: Ecommerce, Tag: 3, Parent Tag: 2, Program: "Ecommerce.Tabela".
+ <161574488038536640> 11/09/2025 14:31:51.767     [Error  ] -  Task Name: Tabela, Tag: 4, Parent Tag: 3, Program: "Ecommerce.Tabela".
+ <161574488038536640> 11/09/2025 14:31:51.767     [Error  ] - End Task Tree, Program: "Ecommerce.Tabela".
+ <161574488038536640> 11/09/2025 14:31:51.854     [Error  ] - Error: Thread aborted, so error marked.
+ <161574488038536640> 11/09/2025 14:31:51.855     [Error  ] - EndTaskRequest(): Ecommerce;TabelaOut of memory. while trying to allocate 303709180 bytes. : "Ecommerce" ("Ecoomerce")  (msgid "339")
