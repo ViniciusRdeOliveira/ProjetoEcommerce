@@ -805,3 +805,4 @@
  <161574488038536640> 11/09/2025 14:31:51.767     [Error  ] - End Task Tree, Program: "Ecommerce.Tabela".
  <161574488038536640> 11/09/2025 14:31:51.854     [Error  ] - Error: Thread aborted, so error marked.
  <161574488038536640> 11/09/2025 14:31:51.855     [Error  ] - EndTaskRequest(): Ecommerce;TabelaOut of memory. while trying to allocate 303709180 bytes. : "Ecommerce" ("Ecoomerce")  (msgid "339")
+ <173302061959339360> 11/09/2025 17:17:57.356     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
