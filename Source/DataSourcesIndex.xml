@@ -8,7 +8,7 @@
 
   <Exe comp="-1"/>
 
-  <LastIsn val="14"/>
+  <LastIsn val="15"/>
 
   <LastIsnFolder val="0"/>
 
@@ -21,13 +21,12 @@
 <DataObject PhysicalName="Customers" Public="0" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="2" name="Customers" offset="229" length="6235"/> 
 <DataObject PhysicalName="Suppliers" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="3" name="Suppliers" offset="6465" length="4678"/> 
 <DataObject PhysicalName="Products" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="5" name="Products" offset="11144" length="6114"/> 
-<DataObject PhysicalName="Orders" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="14" name="Orders" offset="17259" length="3883"/> 
-<DataObject PhysicalName="Order_Lines" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="6" name="Order_Lines" offset="21143" length="5987"/> 
-<DataObject PhysicalName="Countries" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="7" name="Countries" offset="27131" length="2518"/> 
-<DataObject PhysicalName="Cities" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="8" name="Cities" offset="29650" length="4186"/> 
-<DataObject PhysicalName="LastId" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="9" name="LastId" offset="33837" length="2066"/> 
-<DataObject PhysicalName="Method_Of_Payment" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="10" name="Method_Of_Payment" offset="35904" length="2019"/> 
-<DataObject PhysicalName="Categories" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="11" name="Categories" offset="37924" length="2017"/> 
-<DataObject PhysicalName="Cart" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="13" name="Cart" offset="39942" length="3227"/>  </DataObjects>
+<DataObject PhysicalName="Orders" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="14" name="Orders" offset="17259" length="3315"/> 
+<DataObject PhysicalName="Order_Lines" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="15" name="Order_Lines" offset="20575" length="4482"/> 
+<DataObject PhysicalName="Countries" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="7" name="Countries" offset="25058" length="2518"/> 
+<DataObject PhysicalName="Cities" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="8" name="Cities" offset="27577" length="4186"/> 
+<DataObject PhysicalName="LastId" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="9" name="LastId" offset="31764" length="2066"/> 
+<DataObject PhysicalName="Method_Of_Payment" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="10" name="Method_Of_Payment" offset="33831" length="2019"/> 
+<DataObject PhysicalName="Categories" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="11" name="Categories" offset="35851" length="2017"/>  </DataObjects>
  </DataSourceRepository>
- <LastModified val="31204162116655162"/>  </Application>
+ <LastModified val="31205165-211828842"/>  </Application>

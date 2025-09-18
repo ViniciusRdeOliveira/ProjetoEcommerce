@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="E-commere Países e Cidades" ISN_2="1" LastIsn="7" id="3">
-          <LastModified _date="739488" _time="36455" date="25/08/2025" time="10:07:35"/>
+          <LastModified _date="739511" _time="36745" date="09/17/2025" time="10:12:25"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -483,10 +483,10 @@
                 <Model comp="-1" id="1" obj="15"/>
                 <Text id="19" valUnicode="Países"/>
                 <Placement id="20" left="50"/>
-                <X id="21" val="195"/>
+                <X id="21" val="226"/>
                 <Y id="22" val="9"/>
-                <Width id="23" val="61"/>
-                <Height id="24" val="17"/>
+                <Width id="23" val="66"/>
+                <Height id="24" val="19"/>
                 <_Orientation id="143"/>
               </PropertyList>
             </Control>
@@ -655,8 +655,8 @@
           </Event>
         </EVNT>
         <Task MainProgram="N">
-          <Header Description="Tabela" ISN_2="2" id="3">
-            <LastModified _date="739488" _time="36447" date="25/08/2025" time="10:07:27"/>
+          <Header Description="Tabela" ISN_2="2" LastIsn="7" id="3">
+            <LastModified _date="739488" _time="36447" date="08/25/2025" time="10:07:27"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -1205,8 +1205,8 @@
           </EVNT>
         </Task>
         <Task MainProgram="N">
-          <Header Description="Inicialização" ISN_2="3" id="3">
-            <LastModified _date="739488" _time="35903" date="25/08/2025" time="09:58:23"/>
+          <Header Description="Inicialização" ISN_2="3" LastIsn="7" id="3">
+            <LastModified _date="739488" _time="35903" date="08/25/2025" time="09:58:23"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -1607,8 +1607,8 @@
             </Expression>
           </Expressions>
           <Task MainProgram="N">
-            <Header Description="BuscaDados" ISN_2="4" id="3">
-              <LastModified _date="739488" _time="35884" date="25/08/2025" time="09:58:04"/>
+            <Header Description="BuscaDados" ISN_2="4" LastIsn="7" id="3">
+              <LastModified _date="739488" _time="35884" date="08/25/2025" time="09:58:04"/>
               <ExecutionRight comp="-1"/>
               <Resident val="Y"/>
               <SQL val="N"/>
@@ -1890,8 +1890,8 @@
             <VarRangeInfo Mode="E" VarRangeVeeIsn="1" id="1"/>
           </Task>
           <Task MainProgram="N">
-            <Header Description="Paises Edit" ISN_2="5" id="3">
-              <LastModified _date="739488" _time="35906" date="25/08/2025" time="09:58:26"/>
+            <Header Description="Paises Edit" ISN_2="5" LastIsn="7" id="3">
+              <LastModified _date="739488" _time="35906" date="08/25/2025" time="09:58:26"/>
               <ExecutionRight comp="-1"/>
               <Resident val="N"/>
               <SQL val="N"/>
@@ -2222,8 +2222,8 @@
               </Expression>
             </Expressions>
             <Task MainProgram="N">
-              <Header Description="Salvar" ISN_2="6" id="3">
-                <LastModified _date="739485" _time="35444" date="22/08/2025" time="09:50:44"/>
+              <Header Description="Salvar" ISN_2="6" LastIsn="7" id="3">
+                <LastModified _date="739485" _time="35444" date="08/22/2025" time="09:50:44"/>
                 <ExecutionRight comp="-1"/>
                 <Resident val="Y"/>
                 <SQL val="N"/>
@@ -2418,8 +2418,8 @@
               </Expressions>
             </Task>
             <Task MainProgram="N">
-              <Header Description="Excluir" ISN_2="7" id="3">
-                <LastModified _date="739488" _time="34442" date="25/08/2025" time="09:34:02"/>
+              <Header Description="Excluir" ISN_2="7" LastIsn="7" id="3">
+                <LastModified _date="739488" _time="34442" date="08/25/2025" time="09:34:02"/>
                 <ExecutionRight comp="-1"/>
                 <Resident val="Y"/>
                 <SQL val="N"/>

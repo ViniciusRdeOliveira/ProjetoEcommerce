@@ -4,7 +4,7 @@
   <Header>
     <Version val="14100.00"/>
     <WithIsn val="Y"/>
-    <LastIsn val="46"/>
+    <LastIsn val="47"/>
     <LastIsnFolder val="0"/>
   </Header>
 
@@ -55,11 +55,6 @@
           <RichClient id="453">
             <PropertyList model="CTRL_RICH_CLIENT_EDIT"/>
           </RichClient>
-        </PropertyList>
-      </Object>
-      <Object id="46" name="Numerico">
-        <PropertyList model="CTRL_RICH_CLIENT_EDIT">
-          <Format id="82" valUnicode="Numeric"/>
         </PropertyList>
       </Object>
       <Object id="7" name="Amount">
