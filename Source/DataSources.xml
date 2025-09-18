@@ -384,19 +384,14 @@
     </Column>
     <Column id="5" name="Product_Price">
       <PropertyList model="FIELD">
-        <Model attr_obj="FIELD_NUMERIC" id="1"/>
-        <Picture id="157" valUnicode="6.2"/>
+        <Model attr_obj="FIELD_NUMERIC" comp="-1" id="1" obj="7"/>
         <StoredAs id="173" val="6"/>
         <Size id="174" val="8"/>
         <Definition id="175" val="2"/>
         <DbColumnName id="178" val="Product_Price"/>
-        <_Dec id="181" val="2"/>
-        <_Whole id="182" val="6"/>
-        <_Negative id="192"/>
         <_Flip id="194"/>
-        <_FieldPhysical Name="Product_Price" PIC_U="6.2" Size="8" allowed_null="N" attribute="N" context_cookies="Y" database_definition="2" id="231" storage="6" translate="1"/>
+        <_FieldPhysical Name="Product_Price" PIC_U="12.2C" Size="8" allowed_null="N" attribute="N" context_cookies="Y" database_definition="2" id="231" storage="6" translate="1"/>
         <DefaultStorage id="274" val="Y"/>
-        <_FieldStyle id="276" val="1"/>
       </PropertyList>
     </Column>
     <Column id="6" name="Stock_Quantity">
