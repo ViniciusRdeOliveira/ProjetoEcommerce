@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="Adderi Orders" ISN_2="1" LastIsn="18" id="27">
-          <LastModified _date="739512" _time="50705" date="09/18/2025" time="14:05:05"/>
+          <LastModified _date="739513" _time="52836" date="09/19/2025" time="14:40:36"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -636,6 +636,11 @@
             <ExpAttribute val="N"/>
           </Expression>
         </Expressions>
+        <EVNT DESC="ConcluirCompra" FORCE_EXIT="N" id="5">
+          <Event>
+            <EventType val="N"/>
+          </Event>
+        </EVNT>
         <EVNT DESC="Salvar" FORCE_EXIT="N" id="2">
           <Event>
             <EventType val="N"/>
@@ -653,7 +658,7 @@
         </EVNT>
         <Task MainProgram="N">
           <Header Description="Carrinho" ISN_2="11" LastIsn="18" id="27">
-            <LastModified _date="739512" _time="49927" date="09/18/2025" time="13:52:07"/>
+            <LastModified _date="739513" _time="52836" date="09/19/2025" time="14:40:36"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -968,6 +973,34 @@
                     <Wait val="78"/>
                     <Condition val="Y"/>
                     <Modifier val="S"/>
+                    <Direction val="C"/>
+                  </RaiseEvent>
+                </LogicLine>
+              </LogicLines>
+            </LogicUnit>
+            <LogicUnit id="8" propagate="78">
+              <Level val="H"/>
+              <Type val="U"/>
+              <Scope val="S"/>
+              <EngineDirective val="S"/>
+              <ShowMessage val="Y"/>
+              <Condition val="89"/>
+              <Event>
+                <EventType val="U"/>
+                <Parent val="1"/>
+                <PublicObject comp="-1" obj="5"/>
+              </Event>
+              <ExecuteOn_ val="O"/>
+              <LogicLines>
+                <LogicLine>
+                  <RaiseEvent FlowIsn="26">
+                    <Event>
+                      <EventType val="I"/>
+                      <InternalEventID val="14"/>
+                    </Event>
+                    <Wait val="78"/>
+                    <Condition val="Y"/>
+                    <Modifier val="B"/>
                     <Direction val="C"/>
                   </RaiseEvent>
                 </LogicLine>
@@ -1915,7 +1948,7 @@
           </Task>
           <Task MainProgram="N">
             <Header Description="Pagamento" ISN_2="16" LastIsn="18" id="27">
-              <LastModified _date="739512" _time="50705" date="09/18/2025" time="14:05:05"/>
+              <LastModified _date="739513" _time="52781" date="09/19/2025" time="14:39:41"/>
               <ExecutionRight comp="-1"/>
               <Resident val="N"/>
               <SQL val="N"/>
@@ -2120,7 +2153,7 @@
                   </LogicLine>
                 </LogicLines>
               </LogicUnit>
-              <LogicUnit id="5" propagate="78">
+              <LogicUnit id="5" propagate="89">
                 <Level val="H"/>
                 <Type val="U"/>
                 <Scope val="S"/>
@@ -2129,7 +2162,8 @@
                 <Condition val="89"/>
                 <Event>
                   <EventType val="U"/>
-                  <PublicObject comp="-1" obj="3"/>
+                  <Parent val="1"/>
+                  <PublicObject comp="-1" obj="5"/>
                 </Event>
                 <ExecuteOn_ val="O"/>
                 <LogicLines>
@@ -2416,7 +2450,8 @@
                     <Format id="82" valUnicode="Concluir Compra"/>
                     <RaiseEvent id="234">
                       <EventType val="U"/>
-                      <PublicObject comp="-1" obj="3"/>
+                      <Parent val="1"/>
+                      <PublicObject comp="-1" obj="5"/>
                     </RaiseEvent>
                     <TabOrder id="314" val="7"/>
                   </PropertyList>
@@ -2429,11 +2464,6 @@
               </Event>
             </EVNT>
             <EVNT DESC="BuscaCidadePais" FORCE_EXIT="N" id="2">
-              <Event>
-                <EventType val="N"/>
-              </Event>
-            </EVNT>
-            <EVNT DESC="ConcluirCompra" FORCE_EXIT="N" id="3">
               <Event>
                 <EventType val="N"/>
               </Event>

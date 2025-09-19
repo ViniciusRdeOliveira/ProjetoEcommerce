@@ -170,6 +170,11 @@
         <Type Val="2"/>
         <HandlerIsn Val="5"/>
       </ExpandedItem>
+      <ExpandedItem>
+        <TaskIsn Val="11"/>
+        <Type Val="2"/>
+        <HandlerIsn Val="8"/>
+      </ExpandedItem>
     </Program>
     <Program PrgIsn="28">
       <ExpandedItem>
