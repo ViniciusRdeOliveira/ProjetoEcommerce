@@ -1,31 +1,33 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<Application>
+ <Application>
+ 
+<Header>
 
-  <Header>
-    <Version val="14100.00"/>
-    <WithIsn val="Y"/>
-    <Exe comp="-1"/>
-    <LastIsn val="15"/>
-    <LastIsnFolder val="0"/>
-  </Header>
+  <Version val="14100.00"/>
 
-  <DataRepositoryProperties/>
+  <WithIsn val="Y"/>
 
-  <DataSourceRepository>
-    <DataObjects>
-      <DataObject PhysicalName="Customers" Public="0" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="2" length="6236" name="Customers" offset="228"/>
-      <DataObject PhysicalName="Suppliers" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="3" length="4678" name="Suppliers" offset="6465"/>
-      <DataObject PhysicalName="Products" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="5" length="5951" name="Products" offset="11144"/>
-      <DataObject PhysicalName="Orders" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="14" length="3315" name="Orders" offset="17096"/>
-      <DataObject PhysicalName="Order_Lines" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="15" length="4482" name="Order_Lines" offset="20412"/>
-      <DataObject PhysicalName="Countries" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="7" length="2518" name="Countries" offset="24895"/>
-      <DataObject PhysicalName="Cities" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="8" length="4186" name="Cities" offset="27414"/>
-      <DataObject PhysicalName="LastId" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="9" length="2066" name="LastId" offset="31601"/>
-      <DataObject PhysicalName="Method_Of_Payment" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="10" length="2019" name="Method_Of_Payment" offset="33668"/>
-      <DataObject PhysicalName="Categories" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="11" length="2017" name="Categories" offset="35688"/>
-    </DataObjects>
-  </DataSourceRepository>
+  <Exe comp="-1"/>
 
-  <LastModified val="31205566-72813683"/>
+  <LastIsn val="16"/>
 
-</Application>
+  <LastIsnFolder val="0"/>
+
+</Header>
+
+<DataRepositoryProperties/>
+ <DataSourceRepository>
+  <DataObjects>
+   
+<DataObject PhysicalName="Customers" Public="0" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="2" name="Customers" offset="229" length="6236"/> 
+<DataObject PhysicalName="Suppliers" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="3" name="Suppliers" offset="6466" length="4678"/> 
+<DataObject PhysicalName="Products" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="5" name="Products" offset="11145" length="5951"/> 
+<DataObject PhysicalName="Orders" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="14" name="Orders" offset="17097" length="3315"/> 
+<DataObject PhysicalName="Order_Lines" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="15" name="Order_Lines" offset="20413" length="4482"/> 
+<DataObject PhysicalName="Order_Details" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="16" name="Order_Details" offset="24896" length="4487"/> 
+<DataObject PhysicalName="Countries" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="7" name="Countries" offset="29384" length="2518"/> 
+<DataObject PhysicalName="Cities" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="8" name="Cities" offset="31903" length="4186"/> 
+<DataObject PhysicalName="LastId" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="9" name="LastId" offset="36090" length="2066"/> 
+<DataObject PhysicalName="Method_Of_Payment" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="10" name="Method_Of_Payment" offset="38157" length="2019"/> 
+<DataObject PhysicalName="Categories" Resident="N" UniqueISNConvState="12" data_source="GettingStarted" id="11" name="Categories" offset="40177" length="2017"/>  </DataObjects>
+ </DataSourceRepository>
+ <LastModified val="31206594117094707"/>  </Application>

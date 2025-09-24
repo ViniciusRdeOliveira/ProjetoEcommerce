@@ -1085,3 +1085,283 @@
  <431095980450873408> 19/09/2025 14:39:49.016     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
  <431095980450873408> 19/09/2025 14:39:56.604     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
  <431095980450873408> 19/09/2025 14:39:58.551     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\Memory Foam Seat Cus.jpg" not found., Program: "Main Program".
+ <319607205606677376> 23/09/2025 16:36:55.753     [Error  ] - Execution Path: Main Program, Program: "Main Program".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <319607205606677376> 23/09/2025 16:36:55.754     [Error  ] -  Task Name: Main Program, Tag: 1, Program: "Main Program".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <319607205606677376> 23/09/2025 16:36:55.755     [Error  ] - End Task Tree, Program: "Main Program".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <319607205606677376> 23/09/2025 16:36:55.759     [Error  ] - Error: Thread aborted, so error marked.
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <319607205606677376> 23/09/2025 16:36:55.760     [Error  ] - EndTaskRequest(): Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Main ProgramERR-THREAD-ABORTED (-139) : "Adderi Orders.Carrinho.Detalhe Orders Lines (carrinho).Edit" ("Ecoomerce")  (msgid "852")
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <520756989875526656> 23/09/2025 17:17:25.756     [Error  ] - "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\products\.jpg" not found., Program: "Main Program".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <520756989875526656> 23/09/2025 17:17:28.850     [Error  ] - Execution Path: Main Program, Program: "Main Program".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <520756989875526656> 23/09/2025 17:17:28.851     [Error  ] -  Task Name: Main Program, Tag: 1, Program: "Main Program".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <520756989875526656> 23/09/2025 17:17:28.852     [Error  ] -  Task Name: Adderi Orders, Tag: 2, Parent Tag: 1, Program: "Main Program".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <520756989875526656> 23/09/2025 17:17:28.852     [Error  ] -  Task Name: Carrinho, Tag: 3, Parent Tag: 2, Program: "Main Program".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <520756989875526656> 23/09/2025 17:17:28.853     [Error  ] -  Task Name: Tabela Carrinho, Tag: 4, Parent Tag: 3, Program: "Main Program".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <520756989875526656> 23/09/2025 17:17:28.855     [Error  ] -  Task Name: Detalhe Orders Lines (Carrinho), Tag: 5, Parent Tag: 3, Program: "Main Program".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <520756989875526656> 23/09/2025 17:17:28.856     [Error  ] -  Task Name: Edit, Tag: 6, Parent Tag: 5, Program: "Main Program".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <520756989875526656> 23/09/2025 17:17:28.857     [Error  ] - End Task Tree, Program: "Main Program".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <520756989875526656> 23/09/2025 17:17:28.903     [Error  ] - Error: Thread aborted, so error marked.
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <520756989875526656> 23/09/2025 17:17:28.904     [Error  ] - EndTaskRequest(): Main ProgramERR-THREAD-ABORTED (-139) : "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit" ("Ecoomerce")  (msgid "867")
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:24:57.087     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:24:58.786     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:01.510     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:03.758     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:05.993     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:08.237     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:10.981     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:13.224     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:15.452     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:17.693     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:19.963     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:22.191     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:24.429     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:26.664     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:28.912     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:30.605     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:32.825     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:34.556     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:36.790     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:39.518     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:41.739     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:43.476     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:45.722     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:48.478     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:50.711     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:52.948     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:55.667     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:57.380     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:25:59.602     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:01.835     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:03.546     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:05.776     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:07.991     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:09.697     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:12.421     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:14.126     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:16.349     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:18.603     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:20.812     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:23.025     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:25.252     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:26.960     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:29.200     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:31.938     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:34.193     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:36.935     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:39.164     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:40.888     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:43.115     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:45.358     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:47.608     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:49.856     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:52.086     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:54.319     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:56.029     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:26:58.236     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:00.477     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:02.720     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:04.959     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:07.187     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:09.432     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:11.669     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:13.392     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:15.621     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:17.859     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:20.077     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:21.784     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:23.997     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:25.698     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:27.923     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:29.625     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:31.855     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:34.070     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:35.771     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:37.989     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:39.700     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:41.926     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:43.639     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:45.864     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:48.586     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:50.291     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:52.516     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:54.741     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:56.441     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:27:59.169     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:28:00.878     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:28:03.092     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <253241186159032832> 23/09/2025 17:28:04.793     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:31:40.821     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:31:42.398     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:31:44.639     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:31:46.860     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:31:49.081     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:31:51.311     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:31:53.542     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:31:55.782     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:31:57.851     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:32:00.088     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:32:02.345     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:32:04.568     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:32:06.745     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:32:08.444     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:32:11.156     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:32:13.385     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:32:16.089     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:32:17.779     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:32:19.127     [Error  ] - Error: Thread aborted, so error marked., Program: "Main Program".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <390931273095436736> 23/09/2025 17:32:19.130     [Error  ] - EndTaskRequest(): Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Unable to lock the Data Source: LastId : E-commerce - Salvar Aborting context 390931273095436736 : "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit" ("Ecoomerce")  (msgid "913"), Program: "Main Program".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <60296892634836960> 23/09/2025 17:32:53.556     [Error  ] - Unable to lock the Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Detalhe Orders Lines (Carrinho).Edit.SalvarItemCarrinho".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <60296892634836960> 23/09/2025 17:32:56.241     [Error  ] - Unable to lock the Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Detalhe Orders Lines (Carrinho).Edit.SalvarItemCarrinho".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <60296892634836960> 23/09/2025 17:32:57.977     [Error  ] - Unable to lock the Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Detalhe Orders Lines (Carrinho).Edit.SalvarItemCarrinho".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <60296892634836960> 23/09/2025 17:33:00.760     [Error  ] - Unable to lock the Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Detalhe Orders Lines (Carrinho).Edit.SalvarItemCarrinho".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <60296892634836960> 23/09/2025 17:33:02.986     [Error  ] - Unable to lock the Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Detalhe Orders Lines (Carrinho).Edit.SalvarItemCarrinho".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <60296892634836960> 23/09/2025 17:33:05.735     [Error  ] - Unable to lock the Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Detalhe Orders Lines (Carrinho).Edit.SalvarItemCarrinho".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <60296892634836960> 23/09/2025 17:33:07.974     [Error  ] - Unable to lock the Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Detalhe Orders Lines (Carrinho).Edit.SalvarItemCarrinho".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <60296892634836960> 23/09/2025 17:33:10.230     [Error  ] - Unable to lock the Data Source: Order_Lines  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Detalhe Orders Lines (Carrinho).Edit.SalvarItemCarrinho".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <279059710491633280> 23/09/2025 17:44:10.429     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <279059710491633280> 23/09/2025 17:44:12.568     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <279059710491633280> 23/09/2025 17:44:15.403     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <279059710491633280> 23/09/2025 17:44:18.237     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <279059710491633280> 23/09/2025 17:44:20.382     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <279059710491633280> 23/09/2025 17:44:23.205     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <279059710491633280> 23/09/2025 17:44:25.341     [Error  ] - Unable to lock the Data Source: LastId  >> Application: "C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\Ecommerce\", Program: "Adderi Orders.Carrinho.Detalhe Orders Lines (Carrinho).Edit.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <-1> 23/09/2025 17:48:04.689     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <-1> 23/09/2025 17:58:33.630     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application

@@ -13,8 +13,8 @@
   <ProgramsRepository>
     <Programs>
       <Task MainProgram="N">
-        <Header Description="Detalhe Orders" ISN_2="1" LastIsn="5" id="28">
-          <LastModified _date="739512" _time="50084" date="09/18/2025" time="13:54:44"/>
+        <Header Description="Detalhe Orders Lines (Carrinho)" ISN_2="1" LastIsn="5" id="28">
+          <LastModified _date="739518" _time="30474" date="09/24/2025" time="08:27:54"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -533,7 +533,7 @@
           </Expression>
         </Expressions>
         <Task MainProgram="N">
-          <Header Description="BuscaDados" ISN_2="2" LastIsn="5" id="28">
+          <Header Description="BuscaDados" ISN_2="2" LastIsn="2" id="28">
             <LastModified _date="739510" _time="52439" date="09/16/2025" time="14:33:59"/>
             <ExecutionRight comp="-1"/>
             <Resident val="Y"/>
@@ -883,7 +883,7 @@
         </Task>
         <Task MainProgram="N">
           <Header Description="Edit" ISN_2="3" LastIsn="5" id="28">
-            <LastModified _date="739512" _time="50084" date="09/18/2025" time="13:54:44"/>
+            <LastModified _date="739518" _time="30474" date="09/24/2025" time="08:27:54"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -1612,6 +1612,7 @@
                   <Attribute id="83" val="85"/>
                   <ImageStyle id="89" val="5"/>
                   <TabOrder id="314" val="9"/>
+                  <LoadImageFrom id="487" val="2"/>
                 </PropertyList>
               </Control>
               <Control _test_id="9" id="6">
@@ -1718,8 +1719,8 @@
             </Event>
           </EVNT>
           <Task MainProgram="N">
-            <Header Description="Excluir" ISN_2="4" LastIsn="5" id="28">
-              <LastModified _date="739510" _time="41737" date="09/16/2025" time="11:35:37"/>
+            <Header Description="DeletarItemCarrinho" ISN_2="4" LastIsn="4" id="28">
+              <LastModified _date="739517" _time="63055" date="09/23/2025" time="17:30:55"/>
               <ExecutionRight comp="-1"/>
               <Resident val="N"/>
               <SQL val="N"/>
@@ -1855,8 +1856,8 @@
             <VarRangeInfo Mode="E" VarRangeVeeIsn="1" id="1"/>
           </Task>
           <Task MainProgram="N">
-            <Header Description="Salvar" ISN_2="5" LastIsn="5" id="28">
-              <LastModified _date="739512" _time="41846" date="09/18/2025" time="11:37:26"/>
+            <Header Description="SalvarItemCarrinho" ISN_2="5" LastIsn="5" id="28">
+              <LastModified _date="739517" _time="63066" date="09/23/2025" time="17:31:06"/>
               <ExecutionRight comp="-1"/>
               <Resident val="N"/>
               <SQL val="N"/>
