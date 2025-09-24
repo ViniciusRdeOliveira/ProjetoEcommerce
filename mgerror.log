@@ -1365,3 +1365,15 @@
  Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
  <-1> 23/09/2025 17:48:04.689     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
  <-1> 23/09/2025 17:58:33.630     [Error  ] - Error - run-time engine was not found. Please restart the studio in order to run the application
+ <135838858759240768> 24/09/2025 10:24:20.312     [Error  ] - Aborting context 135838858759240768, Program: "Main Program".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <463182120984520192> 24/09/2025 15:22:37.305     [Error  ] - Aborting context 463182120984520192, Program: "SalvaPagamento".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <560112753605593984> 24/09/2025 15:28:05.164     [Error  ] - Aborting context 560112753605593984, Program: "SalvaPagamento.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <372948260248529920> 24/09/2025 15:48:17.205     [Error  ] - Aborting context 372948260248529920, Program: "SalvaPagamento".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <21558022909993684> 24/09/2025 15:56:55.272     [Error  ] - Aborting context 21558022909993684, Program: "SalvaPagamento.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log
+ <239228740829504928> 24/09/2025 16:13:04.554     [Error  ] - Aborting context 239228740829504928, Program: "SalvaPagamento.E-commerce - Salvar".
+ Please refer file for detailed log : C:\meuMagic\MSE\Magic xpa 4.10 Single User Edition\Projects\log.log

@@ -25,7 +25,7 @@
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739513" _time="63783" date="09/19/2025" time="17:43:03"/>
+      <SourceFileTimeStamp _date="739518" _time="41434" date="09/24/2025" time="11:30:34"/>
     </Program>
     <Program>
       <Header Description="E-commerce Clientes" ISN_2="1" LastIsn="7" id="2">
@@ -48,7 +48,7 @@
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739513" _time="63783" date="09/19/2025" time="17:43:03"/>
+      <SourceFileTimeStamp _date="739518" _time="41434" date="09/24/2025" time="11:30:34"/>
     </Program>
     <Program>
       <Header Description="E-commere Países e Cidades" ISN_2="1" LastIsn="7" id="3">
@@ -72,7 +72,7 @@
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739513" _time="63783" date="09/19/2025" time="17:43:03"/>
+      <SourceFileTimeStamp _date="739518" _time="41434" date="09/24/2025" time="11:30:34"/>
     </Program>
     <Program>
       <Header Description="E-Commerce Produtos" ISN_2="1" LastIsn="7" id="4">
@@ -98,7 +98,7 @@
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739517" _time="73085" date="09/23/2025" time="20:18:05"/>
+      <SourceFileTimeStamp _date="739518" _time="41434" date="09/24/2025" time="11:30:34"/>
     </Program>
     <Program>
       <Header Description="E-commerce - Salvar" ISN_2="1" LastIsn="1" id="5">
@@ -121,7 +121,7 @@
         <FormType val="M"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739513" _time="63783" date="09/19/2025" time="17:43:03"/>
+      <SourceFileTimeStamp _date="739518" _time="41434" date="09/24/2025" time="11:30:34"/>
     </Program>
     <Program>
       <Header Description="E-commerce - Excluir" ISN_2="1" LastIsn="1" id="6">
@@ -144,11 +144,11 @@
         <FormType val="M"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739513" _time="63783" date="09/19/2025" time="17:43:03"/>
+      <SourceFileTimeStamp _date="739518" _time="41434" date="09/24/2025" time="11:30:34"/>
     </Program>
     <Program>
-      <Header Description="Adderi Fornecedores" ISN_2="1" LastIsn="7" id="7">
-        <LastModified _date="739481" _time="58382" date="08/18/2025" time="16:13:02"/>
+      <Header Description="E-commerce Fornecedores" ISN_2="1" LastIsn="7" id="7">
+        <LastModified _date="739518" _time="53528" date="09/24/2025" time="14:52:08"/>
         <ExecutionRight comp="-1"/>
         <Resident val="N"/>
         <SQL val="N"/>
@@ -164,7 +164,7 @@
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739513" _time="63783" date="09/19/2025" time="17:43:03"/>
+      <SourceFileTimeStamp _date="739518" _time="64328" date="09/24/2025" time="17:52:08"/>
     </Program>
     <Program>
       <Header Description="Relatório - Clientes" ISN_2="1" LastIsn="1" id="8">
@@ -186,7 +186,7 @@
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739513" _time="63783" date="09/19/2025" time="17:43:03"/>
+      <SourceFileTimeStamp _date="739518" _time="41434" date="09/24/2025" time="11:30:34"/>
     </Program>
     <Program>
       <Header Description="Relatório - Fornecedores" ISN_2="1" LastIsn="1" id="9">
@@ -208,7 +208,7 @@
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739513" _time="63783" date="09/19/2025" time="17:43:03"/>
+      <SourceFileTimeStamp _date="739518" _time="41434" date="09/24/2025" time="11:30:34"/>
     </Program>
     <Program>
       <Header Description="Relatório - Pedidos" ISN_2="1" LastIsn="1" id="10">
@@ -230,7 +230,7 @@
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739513" _time="63783" date="09/19/2025" time="17:43:03"/>
+      <SourceFileTimeStamp _date="739518" _time="41434" date="09/24/2025" time="11:30:34"/>
     </Program>
     <Program>
       <Header Description="Relatório - Países e Cidades" ISN_2="1" LastIsn="1" id="11">
@@ -252,7 +252,7 @@
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739513" _time="63783" date="09/19/2025" time="17:43:03"/>
+      <SourceFileTimeStamp _date="739518" _time="41434" date="09/24/2025" time="11:30:34"/>
     </Program>
     <Program>
       <Header Description="Relatório - Produtos" ISN_2="1" LastIsn="1" id="12">
@@ -274,31 +274,11 @@
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739513" _time="63783" date="09/19/2025" time="17:43:03"/>
+      <SourceFileTimeStamp _date="739518" _time="41434" date="09/24/2025" time="11:30:34"/>
     </Program>
     <Program>
-      <Header Description="Dados do Dispositivo" ISN_2="1" LastIsn="2" id="13">
-        <LastModified _date="739463" _time="53310" date="07/31/2025" time="14:48:30"/>
-        <ExecutionRight comp="-1"/>
-        <Resident val="N"/>
-        <SQL val="N"/>
-        <ReturnValue>
-          <ReturnValueAttr/>
-          <ParametersAttributes/>
-        </ReturnValue>
-        <SqlWhereExist val="N"/>
-        <TaskType val="C"/>
-        <Interactive val="Y"/>
-        <External val="N"/>
-        <Offline val="N"/>
-        <FormType val="D"/>
-        <DotNetObjectExists val="N"/>
-      </Header>
-      <SourceFileTimeStamp _date="739513" _time="63783" date="09/19/2025" time="17:43:03"/>
-    </Program>
-    <Program>
-      <Header Description="Adderi Orders" ISN_2="1" LastIsn="44" id="27">
-        <LastModified _date="739517" _time="63040" date="09/23/2025" time="17:30:40"/>
+      <Header Description="E-commerce Pedidos" ISN_2="1" LastIsn="45" id="32">
+        <LastModified _date="739518" _time="60968" date="09/24/2025" time="16:56:08"/>
         <ExecutionRight comp="-1"/>
         <Resident val="N"/>
         <SQL val="N"/>
@@ -314,10 +294,30 @@
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739517" _time="73840" date="09/23/2025" time="20:30:40"/>
+      <SourceFileTimeStamp _date="739518" _time="71768" date="09/24/2025" time="19:56:08"/>
     </Program>
     <Program>
-      <Header Description="Detalhe Orders Lines (Carrinho)" ISN_2="1" LastIsn="5" id="28">
+      <Header Description="E-commerce Carrinho" ISN_2="50" LastIsn="72" id="33">
+        <LastModified _date="739518" _time="61549" date="09/24/2025" time="17:05:49"/>
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="C"/>
+        <Interactive val="Y"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="D"/>
+        <DotNetObjectExists val="N"/>
+      </Header>
+      <SourceFileTimeStamp _date="739518" _time="72349" date="09/24/2025" time="20:05:49"/>
+    </Program>
+    <Program>
+      <Header Description="Detalhe Orders Lines (Carrinho)" ISN_2="1" LastIsn="5" id="40">
         <LastModified _date="739518" _time="30474" date="09/24/2025" time="08:27:54"/>
         <ExecutionRight comp="-1"/>
         <Resident val="N"/>
@@ -339,10 +339,10 @@
         <FormType val="M"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739517" _time="74636" date="09/23/2025" time="20:43:56"/>
+      <SourceFileTimeStamp _date="739518" _time="49439" date="09/24/2025" time="13:43:59"/>
     </Program>
     <Program>
-      <Header Description="LimpaCarrinho" ISN_2="1" LastIsn="1" id="29">
+      <Header Description="LimpaCarrinho" ISN_2="1" LastIsn="1" id="41">
         <LastModified _date="739517" _time="62113" date="09/23/2025" time="17:15:13"/>
         <ExecutionRight comp="-1"/>
         <Resident val="N"/>
@@ -358,7 +358,29 @@
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
       </Header>
-      <SourceFileTimeStamp _date="739517" _time="72913" date="09/23/2025" time="20:15:13"/>
+      <SourceFileTimeStamp _date="739518" _time="49439" date="09/24/2025" time="13:43:59"/>
+    </Program>
+    <Program>
+      <Header Description="SalvaPagamento" ISN_2="1" LastIsn="1" id="42">
+        <LastModified _date="739518" _time="61523" date="09/24/2025" time="17:05:23"/>
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <TSK_PARAMS val="1"/>
+          <ParametersAttributes>
+            <Attr MgAttr="N"/>
+          </ParametersAttributes>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="B"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+      </Header>
+      <SourceFileTimeStamp _date="739518" _time="72323" date="09/24/2025" time="20:05:23"/>
     </Program>
   </ProgramsRepositoryHeaders>
 
