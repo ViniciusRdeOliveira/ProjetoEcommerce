@@ -14,7 +14,7 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="E-commerce Carrinho" ISN_2="50" LastIsn="72" id="33">
-          <LastModified _date="739518" _time="61549" date="09/24/2025" time="17:05:49"/>
+          <LastModified _date="739519" _time="60668" date="09/25/2025" time="16:51:08"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
@@ -314,27 +314,6 @@
             </Event>
             <ExecuteOn_ val="O"/>
             <LogicLines>
-              <LogicLine>
-                <CallTask FlowIsn="18">
-                  <OperationType val="P"/>
-                  <Event>
-                    <EventType val="N"/>
-                  </Event>
-                  <TaskID comp="-1" obj="42"/>
-                  <Lock val="N"/>
-                  <Arguments>
-                    <Argument>
-                      <Skip val="Y"/>
-                    </Argument>
-                  </Arguments>
-                  <Wait val="Y"/>
-                  <SyncData val="N"/>
-                  <RetainFocus val="N"/>
-                  <Condition val="Y"/>
-                  <Modifier val="B"/>
-                  <Direction val="C"/>
-                </CallTask>
-              </LogicLine>
               <LogicLine>
                 <RaiseEvent FlowIsn="7">
                   <Event>
@@ -1313,7 +1292,7 @@
         </Task>
         <Task MainProgram="N">
           <Header Description="Pagamento" ISN_2="70" LastIsn="72" id="33">
-            <LastModified _date="739518" _time="53887" date="09/24/2025" time="14:58:07"/>
+            <LastModified _date="739519" _time="60668" date="09/25/2025" time="16:51:08"/>
             <ExecutionRight comp="-1"/>
             <Resident val="N"/>
             <SQL val="N"/>
@@ -1533,23 +1512,7 @@
               <ExecuteOn_ val="O"/>
               <LogicLines>
                 <LogicLine>
-                  <CallTask FlowIsn="31">
-                    <OperationType val="P"/>
-                    <Event>
-                      <EventType val="N"/>
-                    </Event>
-                    <TaskID comp="-1" obj="41"/>
-                    <Lock val="N"/>
-                    <Wait val="Y"/>
-                    <SyncData val="N"/>
-                    <RetainFocus val="N"/>
-                    <Condition val="Y"/>
-                    <Modifier val="B"/>
-                    <Direction val="C"/>
-                  </CallTask>
-                </LogicLine>
-                <LogicLine>
-                  <CallTask FlowIsn="37">
+                  <CallTask FlowIsn="43">
                     <OperationType val="P"/>
                     <Event>
                       <EventType val="N"/>
@@ -1561,13 +1524,29 @@
                         <Skip val="Y"/>
                       </Argument>
                       <Argument>
-                        <Skip val="Y"/>
+                        <Variable val="1"/>
+                        <Skip val="N"/>
                       </Argument>
                     </Arguments>
                     <Wait val="Y"/>
                     <SyncData val="N"/>
                     <RetainFocus val="N"/>
-                    <Disabled val="1"/>
+                    <Condition val="Y"/>
+                    <Modifier val="B"/>
+                    <Direction val="C"/>
+                  </CallTask>
+                </LogicLine>
+                <LogicLine>
+                  <CallTask FlowIsn="44">
+                    <OperationType val="P"/>
+                    <Event>
+                      <EventType val="N"/>
+                    </Event>
+                    <TaskID comp="-1" obj="41"/>
+                    <Lock val="N"/>
+                    <Wait val="Y"/>
+                    <SyncData val="N"/>
+                    <RetainFocus val="N"/>
                     <Condition val="Y"/>
                     <Modifier val="B"/>
                     <Direction val="C"/>

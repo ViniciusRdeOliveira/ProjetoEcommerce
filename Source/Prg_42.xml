@@ -14,14 +14,15 @@
     <Programs>
       <Task MainProgram="N">
         <Header Description="SalvaPagamento" ISN_2="1" LastIsn="1" id="42">
-          <LastModified _date="739518" _time="61523" date="09/24/2025" time="17:05:23"/>
+          <LastModified _date="739519" _time="60595" date="09/25/2025" time="16:49:55"/>
           <ExecutionRight comp="-1"/>
           <Resident val="N"/>
           <SQL val="N"/>
           <ReturnValue>
             <ReturnValueAttr/>
-            <TSK_PARAMS val="1"/>
+            <TSK_PARAMS val="2"/>
             <ParametersAttributes>
+              <Attr MgAttr="N"/>
               <Attr MgAttr="N"/>
             </ParametersAttributes>
           </ReturnValue>
@@ -32,7 +33,7 @@
           <FormType val="N"/>
           <DotNetObjectExists val="N"/>
         </Header>
-        <ItemIsn val="7"/>
+        <ItemIsn val="9"/>
         <Resource>
           <DB id="2">
             <DataObject comp="-1" obj="14"/>
@@ -44,6 +45,14 @@
           </DB>
           <Columns>
             <Column id="1" name="Order_Number">
+              <PropertyList model="FIELD">
+                <Model attr_obj="FIELD_NUMERIC" comp="-1" id="1" obj="1"/>
+                <DbColumnName id="178"/>
+                <Type id="179"/>
+                <UserType id="180"/>
+              </PropertyList>
+            </Column>
+            <Column id="3" name="M.Payment">
               <PropertyList model="FIELD">
                 <Model attr_obj="FIELD_NUMERIC" comp="-1" id="1" obj="1"/>
                 <DbColumnName id="178"/>
@@ -147,7 +156,20 @@
                 </Select>
               </LogicLine>
               <LogicLine>
-                <LNK Direction="A" EVL_CND="R" FlowIsn="3" Key="1" Mode="W" SortType="4" VIEW="2" VIEWS="4">
+                <Select FieldID="9" FlowIsn="22" id="9">
+                  <Column val="3"/>
+                  <Type val="V"/>
+                  <ExposedToRoute val="N"/>
+                  <IsParameter val="Y"/>
+                  <DIFF_UPDATE val="T"/>
+                  <PartOfDataview val="Y"/>
+                  <Condition val="Y"/>
+                  <Modifier val="S"/>
+                  <Direction val="C"/>
+                </Select>
+              </LogicLine>
+              <LogicLine>
+                <LNK Direction="A" EVL_CND="R" FlowIsn="3" Key="1" Mode="W" SortType="4" VIEW="3" VIEWS="4">
                   <DB comp="-1" obj="14"/>
                   <Condition val="Y"/>
                 </LNK>
@@ -255,6 +277,17 @@
                   <Direction val="C"/>
                 </Update>
               </LogicLine>
+              <LogicLine>
+                <Update FlowIsn="23">
+                  <FieldID val="4"/>
+                  <WithValue val="4"/>
+                  <Incremental val="N"/>
+                  <ForcedUpdate val="Y"/>
+                  <Condition val="Y"/>
+                  <Modifier val="B"/>
+                  <Direction val="C"/>
+                </Update>
+              </LogicLine>
             </LogicLines>
           </LogicUnit>
         </TaskLogic>
@@ -277,6 +310,10 @@
           </Expression>
           <Expression id="3">
             <ExpSyntax val="{0,7}"/>
+            <ExpAttribute val="N"/>
+          </Expression>
+          <Expression id="4">
+            <ExpSyntax val="{0,9}"/>
             <ExpAttribute val="N"/>
           </Expression>
         </Expressions>
